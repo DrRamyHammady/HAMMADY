@@ -1,0 +1,29 @@
+/Users/imac/Desktop/Main Project/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/imac/Desktop/Main Project/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/imac/Desktop/Main Project/obj/Debug/Assembly-CSharp.dll
+/Users/imac/Desktop/Main Project/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/imac/Desktop/Main Project/Temp/bin/Debug/UnityEngine.dll
+/Users/imac/Desktop/Main Project/Temp/bin/Debug/UnityEditor.dll
+/Users/imac/Desktop/Main Project/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/imac/Desktop/Main Project/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/imac/Desktop/Main Project/Temp/bin/Debug/nunit.framework.dll
+/Users/imac/Desktop/Main Project/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/imac/Desktop/Main Project/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/imac/Desktop/Main Project/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/imac/Desktop/Main Project/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/imac/Desktop/Main Project/Temp/bin/Debug/Hierarchy (MAYA outliner) Editor.dll
+/Users/imac/Desktop/Main Project/Temp/bin/Debug/Hierarchy (MAYA outliner) Handler.dll
+/Users/imac/Desktop/Main Project/Temp/bin/Debug/Hierarchy (MAYA outliner) Plugin.dll
+/Users/imac/Desktop/Main Project/Temp/bin/Debug/TextMeshPro-1.0.55.2017.1.0b12.dll
+/Users/imac/Desktop/Main Project/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/imac/Desktop/Main Project/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/imac/Desktop/Main Project/Temp/bin/Debug/Mono.Cecil.dll
+/Users/imac/Desktop/Main Project/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/imac/Desktop/Main Project/Temp/bin/Debug/Unity.DataContract.dll
+/Users/imac/Desktop/Main Project/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/imac/Desktop/Main Project/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/imac/Desktop/Main Project/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/imac/Desktop/Main Project/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/imac/Desktop/Main Project/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/imac/Desktop/Main Project/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/imac/Desktop/Main Project/Temp/bin/Debug/Mono.Cecil.Mdb.dll
