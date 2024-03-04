@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: 2c3ddeff7402f954abca53e6490f7543
+timeCreated: 1560775352
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: trinity_dielectric_accessory
+    100004: trinity_glass
+    100006: trinity_hull
+    100008: trinity_metallic_accessory
+    400000: //RootNode
+    400002: trinity_dielectric_accessory
+    400004: trinity_glass
+    400006: trinity_hull
+    400008: trinity_metallic_accessory
+    2300000: trinity_dielectric_accessory
+    2300002: trinity_glass
+    2300004: trinity_hull
+    2300006: trinity_metallic_accessory
+    3300000: trinity_dielectric_accessory
+    3300002: trinity_glass
+    3300004: trinity_hull
+    3300006: trinity_metallic_accessory
+    4300000: trinity_glass
+    4300002: trinity_hull
+    4300004: trinity_metallic_accessory
+    4300006: trinity_dielectric_accessory
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trinity_Metallic_Material
+    second: {fileID: 2100000, guid: 0838e674f711a23448fab572a37c31cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trinity_Refraction_Material
+    second: {fileID: 2100000, guid: 206a696aa00c2b94a9f1360346c03ff9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trinityaccessory_Dielectric_Material
+    second: {fileID: 2100000, guid: c4158b9cb5f1fb54eb87b83fb544bc10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trinityhull_Dielectric_Material
+    second: {fileID: 2100000, guid: d8339cb61b0eae94a9fa1bfe30b1d520, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

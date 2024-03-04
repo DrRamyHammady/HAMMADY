@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: f5d4b615007654349b32e0e464f84ef2
+timeCreated: 1503749710
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: ambientLight1
+    100002: DL_EgyptCity_9
+    100004: DL_EgyptCity_9.Shape
+    100006: DL_EgyptCity_9.Shape_MeshPart0
+    100008: DL_EgyptCity_9.Shape_MeshPart1
+    100010: DL_EgyptCity_9.Shape_MeshPart2
+    100012: DL_EgyptCity_9.Shape_MeshPart3
+    100014: DL_EgyptCity_9.Shape_MeshPart4
+    100016: DL_EgyptCity_9.Shape_MeshPart5
+    100018: DL_EgyptCity_9.Shape_MeshPart6
+    100020: DL_EgyptCity_9.Shape_MeshPart7
+    100022: DL_EgyptCity_9.Shape_MeshPart8
+    100024: //RootNode
+    100026: DL_EgyptCity_9.Shape_MeshPart9
+    400000: ambientLight1
+    400002: DL_EgyptCity_9
+    400004: DL_EgyptCity_9.Shape
+    400006: DL_EgyptCity_9.Shape_MeshPart0
+    400008: DL_EgyptCity_9.Shape_MeshPart1
+    400010: DL_EgyptCity_9.Shape_MeshPart2
+    400012: DL_EgyptCity_9.Shape_MeshPart3
+    400014: DL_EgyptCity_9.Shape_MeshPart4
+    400016: DL_EgyptCity_9.Shape_MeshPart5
+    400018: DL_EgyptCity_9.Shape_MeshPart6
+    400020: DL_EgyptCity_9.Shape_MeshPart7
+    400022: DL_EgyptCity_9.Shape_MeshPart8
+    400024: //RootNode
+    400026: DL_EgyptCity_9.Shape_MeshPart9
+    2300000: DL_EgyptCity_9.Shape_MeshPart0
+    2300002: DL_EgyptCity_9.Shape_MeshPart1
+    2300004: DL_EgyptCity_9.Shape_MeshPart2
+    2300006: DL_EgyptCity_9.Shape_MeshPart3
+    2300008: DL_EgyptCity_9.Shape_MeshPart4
+    2300010: DL_EgyptCity_9.Shape_MeshPart5
+    2300012: DL_EgyptCity_9.Shape_MeshPart6
+    2300014: DL_EgyptCity_9.Shape_MeshPart7
+    2300016: DL_EgyptCity_9.Shape_MeshPart8
+    2300018: DL_EgyptCity_9.Shape_MeshPart9
+    3300000: DL_EgyptCity_9.Shape_MeshPart0
+    3300002: DL_EgyptCity_9.Shape_MeshPart1
+    3300004: DL_EgyptCity_9.Shape_MeshPart2
+    3300006: DL_EgyptCity_9.Shape_MeshPart3
+    3300008: DL_EgyptCity_9.Shape_MeshPart4
+    3300010: DL_EgyptCity_9.Shape_MeshPart5
+    3300012: DL_EgyptCity_9.Shape_MeshPart6
+    3300014: DL_EgyptCity_9.Shape_MeshPart7
+    3300016: DL_EgyptCity_9.Shape_MeshPart8
+    3300018: DL_EgyptCity_9.Shape_MeshPart9
+    4300000: DL_EgyptCity_9.Shape_MeshPart0
+    4300002: DL_EgyptCity_9.Shape_MeshPart1
+    4300004: DL_EgyptCity_9.Shape_MeshPart2
+    4300006: DL_EgyptCity_9.Shape_MeshPart3
+    4300008: DL_EgyptCity_9.Shape_MeshPart4
+    4300010: DL_EgyptCity_9.Shape_MeshPart5
+    4300012: DL_EgyptCity_9.Shape_MeshPart6
+    4300014: DL_EgyptCity_9.Shape_MeshPart7
+    4300016: DL_EgyptCity_9.Shape_MeshPart8
+    4300018: DL_EgyptCity_9.Shape_MeshPart9
+    9500000: //RootNode
+    10800000: ambientLight1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

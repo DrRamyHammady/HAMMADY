@@ -1,0 +1,2520 @@
+fileFormatVersion: 2
+guid: bb4a4fcfcc5de4dce8f8755a4715d08f
+timeCreated: 1505141766
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: abdomen
+    100002: abdomen 1
+    100004: abdomen 2
+    100006: abdomen 3
+    100008: abdomen 4
+    100010: abdomen 5
+    100012: abdomen1
+    100014: abdomen2
+    100016: abdomen2 1
+    100018: abdomen2 2
+    100020: abdomen2 3
+    100022: abdomenH
+    100024: abdomenH 1
+    100026: abdomenH 2
+    100028: abdomenK
+    100030: abdomenM
+    100032: Arrow
+    100034: arrow_1556.Shape
+    100036: Axe
+    100038: Blades
+    100040: blMilHorse_66354_dup_2.Shape
+    100042: blMilHorse_66354_dup_2.Shape_MeshPart0
+    100044: blMilHorse_66354_dup_2.Shape_MeshPart1
+    100046: blMilMan_m4b_68498.Shape
+    100048: blMilMan_m4b_68498.Shape_MeshPart0
+    100050: blMilMan_m4b_68498.Shape_MeshPart1
+    100052: blMilMan_m4b_68498.Shape_MeshPart2
+    100054: bodyMorphs
+    100056: bow_3032.Shape
+    100058: Bridle3_14861.Shape
+    100060: Car
+    100062: Center
+    100064: char
+    100066: chariot
+    100068: chest
+    100070: chest 1
+    100072: chest 2
+    100074: chest 3
+    100076: chest 4
+    100078: chest 5
+    100080: chest1
+    100082: chestH
+    100084: chestH 1
+    100086: chestH 2
+    100088: chestK
+    100090: chestM
+    100092: DistantLight 1
+    100094: Enemy1
+    100096: Enemy2
+    100098: Enemy3Raider
+    100100: Enemy4
+    100102: EnemyHorse1
+    100104: EnemyHorse1_MeshPart0
+    100106: EnemyHorse1_MeshPart1
+    100108: EnemyHorse2
+    100110: EnemyHorse2_MeshPart0
+    100112: EnemyHorse2_MeshPart1
+    100114: Forelock11
+    100116: Forelock11 1
+    100118: Forelock11 2
+    100120: Forelock12
+    100122: Forelock12 1
+    100124: Forelock12 2
+    100126: Forelock13
+    100128: Forelock13 1
+    100130: Forelock13 2
+    100132: Forelock14
+    100134: Forelock14 1
+    100136: Forelock14 2
+    100138: Forelock15
+    100140: Forelock15 1
+    100142: Forelock15 2
+    100144: Forelock21
+    100146: Forelock21 1
+    100148: Forelock21 2
+    100150: Forelock22
+    100152: Forelock22 1
+    100154: Forelock22 2
+    100156: Forelock23
+    100158: Forelock23 1
+    100160: Forelock23 2
+    100162: Forelock24
+    100164: Forelock24 1
+    100166: Forelock24 2
+    100168: Forelock25
+    100170: Forelock25 1
+    100172: Forelock25 2
+    100174: group
+    100176: head
+    100178: head 1
+    100180: head 2
+    100182: head 3
+    100184: head 4
+    100186: head 5
+    100188: head 6
+    100190: head 7
+    100192: head 8
+    100194: head1
+    100196: headK
+    100198: headM
+    100200: hip
+    100202: hip 1
+    100204: hip 2
+    100206: hip 3
+    100208: hip 4
+    100210: hip 5
+    100212: hip1
+    100214: hip2
+    100216: hip3
+    100218: hip4
+    100220: hipK
+    100222: hipM
+    100224: Horse
+    100226: Hourse2
+    100228: KatanaInHand for Genesis
+    100230: KatanaInHand for Genesis.Shape
+    100232: King
+    100234: King1
+    100236: King1_MeshPart0
+    100238: King1_MeshPart1
+    100240: King1_MeshPart2
+    100242: lBigToe
+    100244: lBigToe 1
+    100246: lBigToe 2
+    100248: lBigToe 3
+    100250: lCannonFore
+    100252: lCannonFore 1
+    100254: lCannonFore 2
+    100256: lCannonHind
+    100258: lCannonHind 1
+    100260: lCannonHind 2
+    100262: lCarpal1
+    100264: lCarpal1 1
+    100266: lCarpal1 2
+    100268: lCarpal1 3
+    100270: lCarpal2
+    100272: lCarpal2 1
+    100274: lCarpal2 2
+    100276: lCarpal2 3
+    100278: lCollar
+    100280: lCollar 1
+    100282: lCollar 2
+    100284: lCollar 3
+    100286: lCollar 4
+    100288: lCollar 5
+    100290: lCollar1
+    100292: lCollarK
+    100294: lCollarM
+    100296: lEar
+    100298: lEar 1
+    100300: lEar 2
+    100302: LeftAxes
+    100304: lElbow
+    100306: lElbow 1
+    100308: lElbow 2
+    100310: lEye
+    100312: lEye 1
+    100314: lEye 2
+    100316: lEye 3
+    100318: lEye 4
+    100320: lEye 5
+    100322: lEye 6
+    100324: lEye 7
+    100326: lEye 8
+    100328: lEye1
+    100330: lEyeK
+    100332: lEyeM
+    100334: lFoot
+    100336: lFoot 1
+    100338: lFoot 2
+    100340: lFoot 3
+    100342: lFoot 4
+    100344: lFoot 5
+    100346: lFoot1
+    100348: lFootK
+    100350: lFootM
+    100352: lForeArm
+    100354: lForeArm 1
+    100356: lForeArm 2
+    100358: lForeArm 3
+    100360: lForeArm 4
+    100362: lForeArm 5
+    100364: lForeArm1
+    100366: lForeArmK
+    100368: lForeArmM
+    100370: lForeLeg
+    100372: lForeLeg 1
+    100374: lForeLeg 2
+    100376: lForelock11
+    100378: lForelock11 1
+    100380: lForelock11 2
+    100382: lForelock12
+    100384: lForelock12 1
+    100386: lForelock12 2
+    100388: lForelock13
+    100390: lForelock13 1
+    100392: lForelock13 2
+    100394: lForelock14
+    100396: lForelock14 1
+    100398: lForelock14 2
+    100400: lForelock15
+    100402: lForelock15 1
+    100404: lForelock15 2
+    100406: lForelock21
+    100408: lForelock21 1
+    100410: lForelock21 2
+    100412: lForelock22
+    100414: lForelock22 1
+    100416: lForelock22 2
+    100418: lForelock23
+    100420: lForelock23 1
+    100422: lForelock23 2
+    100424: lForelock24
+    100426: lForelock24 1
+    100428: lForelock24 2
+    100430: lForelock25
+    100432: lForelock25 1
+    100434: lForelock25 2
+    100436: lForelock31
+    100438: lForelock31 1
+    100440: lForelock31 2
+    100442: lForelock32
+    100444: lForelock32 1
+    100446: lForelock32 2
+    100448: lForelock33
+    100450: lForelock33 1
+    100452: lForelock33 2
+    100454: lForelock34
+    100456: lForelock34 1
+    100458: lForelock34 2
+    100460: lForelock35
+    100462: lForelock35 1
+    100464: lForelock35 2
+    100466: lForelock41
+    100468: lForelock41 1
+    100470: lForelock41 2
+    100472: lForelock42
+    100474: lForelock42 1
+    100476: lForelock42 2
+    100478: lForelock43
+    100480: lForelock43 1
+    100482: lForelock43 2
+    100484: lForelock44
+    100486: lForelock44 1
+    100488: lForelock44 2
+    100490: lForelock45
+    100492: lForelock45 1
+    100494: lForelock45 2
+    100496: lFrontstrap
+    100498: lGaskin
+    100500: lGaskin 1
+    100502: lGaskin 2
+    100504: lHand
+    100506: lHand 1
+    100508: lHand 2
+    100510: lHand 3
+    100512: lHand 4
+    100514: lHand 5
+    100516: lHand1
+    100518: lHandK
+    100520: lHandM
+    100522: lHoofFore
+    100524: lHoofFore 1
+    100526: lHoofFore 2
+    100528: lHoofHind
+    100530: lHoofHind 1
+    100532: lHoofHind 2
+    100534: lIndex1
+    100536: lIndex1 1
+    100538: lIndex1 2
+    100540: lIndex1 3
+    100542: lIndex1 4
+    100544: lIndex1 5
+    100546: lIndex11
+    100548: lIndex1K
+    100550: lIndex1M
+    100552: lIndex2
+    100554: lIndex2 1
+    100556: lIndex2 2
+    100558: lIndex2 3
+    100560: lIndex2 4
+    100562: lIndex2 5
+    100564: lIndex21
+    100566: lIndex2K
+    100568: lIndex2M
+    100570: lIndex3
+    100572: lIndex3 1
+    100574: lIndex3 2
+    100576: lIndex3 3
+    100578: lIndex3 4
+    100580: lIndex3 5
+    100582: lIndex31
+    100584: lIndex3K
+    100586: lIndex3M
+    100588: LinearPointLight 1
+    100590: lMid1
+    100592: lMid1 1
+    100594: lMid1 2
+    100596: lMid1 3
+    100598: lMid1 4
+    100600: lMid1 5
+    100602: lMid11
+    100604: lMid1K
+    100606: lMid1M
+    100608: lMid2
+    100610: lMid2 1
+    100612: lMid2 2
+    100614: lMid2 3
+    100616: lMid2 4
+    100618: lMid2 5
+    100620: lMid21
+    100622: lMid2K
+    100624: lMid2M
+    100626: lMid3
+    100628: lMid3 1
+    100630: lMid3 2
+    100632: lMid3 3
+    100634: lMid3 4
+    100636: lMid3 5
+    100638: lMid31
+    100640: lMid3K
+    100642: lMid3M
+    100644: lMidstrap
+    100646: lowerJaw
+    100648: lowerJaw 1
+    100650: lowerJaw 2
+    100652: lowerJaw 3
+    100654: lowerJaw 4
+    100656: lowerJaw 5
+    100658: lowerJaw1
+    100660: lowerJawK
+    100662: lowerJawM
+    100664: lPasternFore
+    100666: lPasternFore 1
+    100668: lPasternFore 2
+    100670: lPasternHind
+    100672: lPasternHind 1
+    100674: lPasternHind 2
+    100676: lPectoral
+    100678: lPectoral 1
+    100680: lPectoral 2
+    100682: lPectoral 3
+    100684: lPinky1
+    100686: lPinky1 1
+    100688: lPinky1 2
+    100690: lPinky1 3
+    100692: lPinky1 4
+    100694: lPinky1 5
+    100696: lPinky11
+    100698: lPinky1K
+    100700: lPinky1M
+    100702: lPinky2
+    100704: lPinky2 1
+    100706: lPinky2 2
+    100708: lPinky2 3
+    100710: lPinky2 4
+    100712: lPinky2 5
+    100714: lPinky21
+    100716: lPinky2K
+    100718: lPinky2M
+    100720: lPinky3
+    100722: lPinky3 1
+    100724: lPinky3 2
+    100726: lPinky3 3
+    100728: lPinky3 4
+    100730: lPinky3 5
+    100732: lPinky31
+    100734: lPinky3K
+    100736: lPinky3M
+    100738: lRing1
+    100740: lRing1 1
+    100742: lRing1 2
+    100744: lRing1 3
+    100746: lRing1 4
+    100748: lRing1 5
+    100750: lRing11
+    100752: lRing1K
+    100754: lRing1M
+    100756: lRing2
+    100758: lRing2 1
+    100760: lRing2 2
+    100762: lRing2 3
+    100764: lRing2 4
+    100766: lRing2 5
+    100768: lRing21
+    100770: lRing2K
+    100772: lRing2M
+    100774: lRing3
+    100776: lRing3 1
+    100778: lRing3 2
+    100780: lRing3 3
+    100782: lRing3 4
+    100784: lRing3 5
+    100786: lRing31
+    100788: lRing3K
+    100790: lRing3M
+    100792: lShin
+    100794: lShin 1
+    100796: lShin 2
+    100798: lShin 3
+    100800: lShin 4
+    100802: lShin 5
+    100804: lShin1
+    100806: lShinK
+    100808: lShinM
+    100810: lShldr
+    100812: lShldr 1
+    100814: lShldr 2
+    100816: lShldr 3
+    100818: lShldr 4
+    100820: lShldr 5
+    100822: lShldr1
+    100824: lShldrK
+    100826: lShldrM
+    100828: lShoulderH
+    100830: lShoulderH 1
+    100832: lShoulderH 2
+    100834: lSmallToe1
+    100836: lSmallToe1 1
+    100838: lSmallToe1 2
+    100840: lSmallToe1 3
+    100842: lSmallToe2
+    100844: lSmallToe2 1
+    100846: lSmallToe2 2
+    100848: lSmallToe2 3
+    100850: lSmallToe3
+    100852: lSmallToe3 1
+    100854: lSmallToe3 2
+    100856: lSmallToe3 3
+    100858: lSmallToe4
+    100860: lSmallToe4 1
+    100862: lSmallToe4 2
+    100864: lSmallToe4 3
+    100866: ltack_2793.Shape
+    100868: lThigh
+    100870: lThigh 1
+    100872: lThigh 2
+    100874: lThigh 3
+    100876: lThigh 4
+    100878: lThigh 5
+    100880: lThigh1
+    100882: lThighHind
+    100884: lThighHind 1
+    100886: lThighHind 2
+    100888: lThighK
+    100890: lThighM
+    100892: lThumb1
+    100894: lThumb1 1
+    100896: lThumb1 2
+    100898: lThumb1 3
+    100900: lThumb1 4
+    100902: lThumb1 5
+    100904: lThumb11
+    100906: lThumb1K
+    100908: lThumb1M
+    100910: lThumb2
+    100912: lThumb2 1
+    100914: lThumb2 2
+    100916: lThumb2 3
+    100918: lThumb2 4
+    100920: lThumb2 5
+    100922: lThumb21
+    100924: lThumb2K
+    100926: lThumb2M
+    100928: lThumb3
+    100930: lThumb3 1
+    100932: lThumb3 2
+    100934: lThumb3 3
+    100936: lThumb3 4
+    100938: lThumb3 5
+    100940: lThumb31
+    100942: lThumb3K
+    100944: lThumb3M
+    100946: lToe
+    100948: lToe 1
+    100950: lToe 2
+    100952: lToe 3
+    100954: lToe 4
+    100956: lToe 5
+    100958: lToe1
+    100960: lToeK
+    100962: lToeM
+    100964: ManeEnd1
+    100966: ManeEnd1 1
+    100968: ManeEnd1 2
+    100970: ManeEnd2
+    100972: ManeEnd2 1
+    100974: ManeEnd2 2
+    100976: ManeEnd3
+    100978: ManeEnd3 1
+    100980: ManeEnd3 2
+    100982: ManeEnd4
+    100984: ManeEnd4 1
+    100986: ManeEnd4 2
+    100988: ManeEnd5
+    100990: ManeEnd5 1
+    100992: ManeEnd5 2
+    100994: ManeEnd6
+    100996: ManeEnd6 1
+    100998: ManeEnd6 2
+    101000: ManeEnd7
+    101002: ManeEnd7 1
+    101004: ManeEnd7 2
+    101006: ManeEnd8
+    101008: ManeEnd8 1
+    101010: ManeEnd8 2
+    101012: Mesh_AnkletAL1
+    101014: Mesh_AnkletAR1
+    101016: Mesh_ApronAa1
+    101018: Mesh_ApronBCD1
+    101020: Mesh_Big_Snake1
+    101022: Mesh_Big_Snake1_MeshPart0
+    101024: Mesh_Big_Snake1_MeshPart1
+    101026: Mesh_BraceletAL1
+    101028: Mesh_BraceletAR1
+    101030: Mesh_Collar1
+    101032: Mesh_Collar1_MeshPart0
+    101034: Mesh_Collar1_MeshPart1
+    101036: Mesh_Collar1_MeshPart2
+    101038: Mesh_Collar1_MeshPart3
+    101040: Mesh_Collar1_MeshPart4
+    101042: Mesh_Collar1_MeshPart5
+    101044: Mesh_Collar1_MeshPart6
+    101046: Mesh_Collar1_MeshPart7
+    101048: Mesh_Collar1_MeshPart8
+    101050: Mesh_Crown1
+    101052: Mesh_Crown1_MeshPart0
+    101054: Mesh_Crown1_MeshPart1
+    101056: Mesh_Crown1_MeshPart2
+    101058: Mesh_Crown1_MeshPart3
+    101060: Mesh_Crown1_MeshPart4
+    101062: Mesh_Mesh_Armor
+    101064: Mesh_Mesh_Armor_MeshPart0
+    101066: Mesh_Mesh_Armor_MeshPart1
+    101068: Mesh_Mesh_Armor_MeshPart2
+    101070: Mesh_Mesh_Armor_MeshPart3
+    101072: Mesh_Mesh_Armor_MeshPart4
+    101074: Mesh_Mesh_Armor_MeshPart5
+    101076: Mesh_Mesh_Armor_MeshPart6
+    101078: Mesh_Mesh_Armor_MeshPart7
+    101080: Mesh_Uraeus1
+    101082: Minster
+    101084: Minster 1
+    101086: Minster 1_MeshPart0
+    101088: Minster 1_MeshPart1
+    101090: Minster 1_MeshPart2
+    101092: neck
+    101094: neck 1
+    101096: neck 2
+    101098: neck 3
+    101100: neck 4
+    101102: neck 5
+    101104: Neck1
+    101106: neck1
+    101108: Neck1 1
+    101110: Neck1 2
+    101112: Neck2
+    101114: Neck2 1
+    101116: Neck2 2
+    101118: Neck3
+    101120: Neck3 1
+    101122: Neck3 2
+    101124: neckK
+    101126: neckM
+    101128: pasted__nurbsToPoly6
+    101130: pelvis
+    101132: pelvis 1
+    101134: pelvis 2
+    101136: pelvis 3
+    101138: pelvis 4
+    101140: pelvis 5
+    101142: pelvis1
+    101144: rBigToe
+    101146: rBigToe 1
+    101148: rBigToe 2
+    101150: rBigToe 3
+    101152: rCannonFore
+    101154: rCannonFore 1
+    101156: rCannonFore 2
+    101158: rCannonHind
+    101160: rCannonHind 1
+    101162: rCannonHind 2
+    101164: rCarpal1
+    101166: rCarpal1 1
+    101168: rCarpal1 2
+    101170: rCarpal1 3
+    101172: rCarpal2
+    101174: rCarpal2 1
+    101176: rCarpal2 2
+    101178: rCarpal2 3
+    101180: rCollar
+    101182: rCollar 1
+    101184: rCollar 2
+    101186: rCollar 3
+    101188: rCollar 4
+    101190: rCollar 5
+    101192: rCollar1
+    101194: rCollarK
+    101196: rCollarM
+    101198: rEar
+    101200: rEar 1
+    101202: rEar 2
+    101204: rElbow
+    101206: rElbow 1
+    101208: rElbow 2
+    101210: rEye
+    101212: rEye 1
+    101214: rEye 2
+    101216: rEye 3
+    101218: rEye 4
+    101220: rEye 5
+    101222: rEye 6
+    101224: rEye 7
+    101226: rEye 8
+    101228: rEye1
+    101230: rEyeK
+    101232: rEyeM
+    101234: rFoot
+    101236: rFoot 1
+    101238: rFoot 2
+    101240: rFoot 3
+    101242: rFoot 4
+    101244: rFoot 5
+    101246: rFoot1
+    101248: rFootK
+    101250: rFootM
+    101252: rForeArm
+    101254: rForeArm 1
+    101256: rForeArm 2
+    101258: rForeArm 3
+    101260: rForeArm 4
+    101262: rForeArm 5
+    101264: rForeArm1
+    101266: rForeArmK
+    101268: rForeArmM
+    101270: rForeLeg
+    101272: rForeLeg 1
+    101274: rForeLeg 2
+    101276: rForelock11
+    101278: rForelock11 1
+    101280: rForelock11 2
+    101282: rForelock12
+    101284: rForelock12 1
+    101286: rForelock12 2
+    101288: rForelock13
+    101290: rForelock13 1
+    101292: rForelock13 2
+    101294: rForelock14
+    101296: rForelock14 1
+    101298: rForelock14 2
+    101300: rForelock15
+    101302: rForelock15 1
+    101304: rForelock15 2
+    101306: rForelock21
+    101308: rForelock21 1
+    101310: rForelock21 2
+    101312: rForelock22
+    101314: rForelock22 1
+    101316: rForelock22 2
+    101318: rForelock23
+    101320: rForelock23 1
+    101322: rForelock23 2
+    101324: rForelock24
+    101326: rForelock24 1
+    101328: rForelock24 2
+    101330: rForelock25
+    101332: rForelock25 1
+    101334: rForelock25 2
+    101336: rForelock31
+    101338: rForelock31 1
+    101340: rForelock31 2
+    101342: rForelock32
+    101344: rForelock32 1
+    101346: rForelock32 2
+    101348: rForelock33
+    101350: rForelock33 1
+    101352: rForelock33 2
+    101354: rForelock34
+    101356: rForelock34 1
+    101358: rForelock34 2
+    101360: rForelock35
+    101362: rForelock35 1
+    101364: rForelock35 2
+    101366: rForelock41
+    101368: rForelock41 1
+    101370: rForelock41 2
+    101372: rForelock42
+    101374: rForelock42 1
+    101376: rForelock42 2
+    101378: rForelock43
+    101380: rForelock43 1
+    101382: rForelock43 2
+    101384: rForelock44
+    101386: rForelock44 1
+    101388: rForelock44 2
+    101390: rForelock45
+    101392: rForelock45 1
+    101394: rForelock45 2
+    101396: rFrontstrap
+    101398: rGaskin
+    101400: rGaskin 1
+    101402: rGaskin 2
+    101404: rHand
+    101406: rHand 1
+    101408: rHand 2
+    101410: rHand 3
+    101412: rHand 4
+    101414: rHand 5
+    101416: rHand1
+    101418: rHandK
+    101420: rHandM
+    101422: rHoofFore
+    101424: rHoofFore 1
+    101426: rHoofFore 2
+    101428: rHoofHind
+    101430: rHoofHind 1
+    101432: rHoofHind 2
+    101434: RightAxes
+    101436: rIndex1
+    101438: rIndex1 1
+    101440: rIndex1 2
+    101442: rIndex1 3
+    101444: rIndex1 4
+    101446: rIndex1 5
+    101448: rIndex11
+    101450: rIndex1K
+    101452: rIndex1M
+    101454: rIndex2
+    101456: rIndex2 1
+    101458: rIndex2 2
+    101460: rIndex2 3
+    101462: rIndex2 4
+    101464: rIndex2 5
+    101466: rIndex21
+    101468: rIndex2K
+    101470: rIndex2M
+    101472: rIndex3
+    101474: rIndex3 1
+    101476: rIndex3 2
+    101478: rIndex3 3
+    101480: rIndex3 4
+    101482: rIndex3 5
+    101484: rIndex31
+    101486: rIndex3K
+    101488: rIndex3M
+    101490: rMid1
+    101492: rMid1 1
+    101494: rMid1 2
+    101496: rMid1 3
+    101498: rMid1 4
+    101500: rMid1 5
+    101502: rMid11
+    101504: rMid1K
+    101506: rMid1M
+    101508: rMid2
+    101510: rMid2 1
+    101512: rMid2 2
+    101514: rMid2 3
+    101516: rMid2 4
+    101518: rMid2 5
+    101520: rMid21
+    101522: rMid2K
+    101524: rMid2M
+    101526: rMid3
+    101528: rMid3 1
+    101530: rMid3 2
+    101532: rMid3 3
+    101534: rMid3 4
+    101536: rMid3 5
+    101538: rMid31
+    101540: rMid3K
+    101542: rMid3M
+    101544: rMidstrap
+    101546: rPasternFore
+    101548: rPasternFore 1
+    101550: rPasternFore 2
+    101552: rPasternHind
+    101554: rPasternHind 1
+    101556: rPasternHind 2
+    101558: rPectoral
+    101560: rPectoral 1
+    101562: rPectoral 2
+    101564: rPectoral 3
+    101566: rPinky1
+    101568: rPinky1 1
+    101570: rPinky1 2
+    101572: rPinky1 3
+    101574: rPinky1 4
+    101576: rPinky1 5
+    101578: rPinky11
+    101580: rPinky1K
+    101582: rPinky1M
+    101584: rPinky2
+    101586: rPinky2 1
+    101588: rPinky2 2
+    101590: rPinky2 3
+    101592: rPinky2 4
+    101594: rPinky2 5
+    101596: rPinky21
+    101598: rPinky2K
+    101600: rPinky2M
+    101602: rPinky3
+    101604: rPinky3 1
+    101606: rPinky3 2
+    101608: rPinky3 3
+    101610: rPinky3 4
+    101612: rPinky3 5
+    101614: rPinky31
+    101616: rPinky3K
+    101618: rPinky3M
+    101620: rRing1
+    101622: rRing1 1
+    101624: rRing1 2
+    101626: rRing1 3
+    101628: rRing1 4
+    101630: rRing1 5
+    101632: rRing11
+    101634: rRing1K
+    101636: rRing1M
+    101638: rRing2
+    101640: rRing2 1
+    101642: rRing2 2
+    101644: rRing2 3
+    101646: rRing2 4
+    101648: rRing2 5
+    101650: rRing21
+    101652: rRing2K
+    101654: rRing2M
+    101656: rRing3
+    101658: rRing3 1
+    101660: rRing3 2
+    101662: rRing3 3
+    101664: rRing3 4
+    101666: rRing3 5
+    101668: rRing31
+    101670: rRing3K
+    101672: rRing3M
+    101674: rShin
+    101676: rShin 1
+    101678: rShin 2
+    101680: rShin 3
+    101682: rShin 4
+    101684: rShin 5
+    101686: rShin1
+    101688: rShinK
+    101690: rShinM
+    101692: rShldr
+    101694: rShldr 1
+    101696: rShldr 2
+    101698: rShldr 3
+    101700: rShldr 4
+    101702: rShldr 5
+    101704: rShldr1
+    101706: rShldrK
+    101708: rShldrM
+    101710: rShoulderH
+    101712: rShoulderH 1
+    101714: rShoulderH 2
+    101716: rSmallToe1
+    101718: rSmallToe1 1
+    101720: rSmallToe1 2
+    101722: rSmallToe1 3
+    101724: rSmallToe2
+    101726: rSmallToe2 1
+    101728: rSmallToe2 2
+    101730: rSmallToe2 3
+    101732: rSmallToe3
+    101734: rSmallToe3 1
+    101736: rSmallToe3 2
+    101738: rSmallToe3 3
+    101740: rSmallToe4
+    101742: rSmallToe4 1
+    101744: rSmallToe4 2
+    101746: rSmallToe4 3
+    101748: rThigh
+    101750: rThigh 1
+    101752: rThigh 2
+    101754: rThigh 3
+    101756: rThigh 4
+    101758: rThigh 5
+    101760: rThigh1
+    101762: rThighHind
+    101764: rThighHind 1
+    101766: rThighHind 2
+    101768: rThighK
+    101770: rThighM
+    101772: rThumb1
+    101774: rThumb1 1
+    101776: rThumb1 2
+    101778: rThumb1 3
+    101780: rThumb1 4
+    101782: rThumb1 5
+    101784: rThumb11
+    101786: rThumb1K
+    101788: rThumb1M
+    101790: rThumb2
+    101792: rThumb2 1
+    101794: rThumb2 2
+    101796: rThumb2 3
+    101798: rThumb2 4
+    101800: rThumb2 5
+    101802: rThumb21
+    101804: rThumb2K
+    101806: rThumb2M
+    101808: rThumb3
+    101810: rThumb3 1
+    101812: rThumb3 2
+    101814: rThumb3 3
+    101816: rThumb3 4
+    101818: rThumb3 5
+    101820: rThumb31
+    101822: rThumb3K
+    101824: rThumb3M
+    101826: rToe
+    101828: rToe 1
+    101830: rToe 2
+    101832: rToe 3
+    101834: rToe 4
+    101836: rToe 5
+    101838: rToe1
+    101840: rToeK
+    101842: rToeM
+    101844: Shield_Soldier2
+    101846: shieldA
+    101848: shieldA_1338.Shape
+    101850: shieldB
+    101852: shieldB1
+    101854: ShieldSoldier
+    101856: ShieldSoldier1
+    101858: ShieldSoldier2
+    101860: SkirtSoldier1
+    101862: SkirtSolider10
+    101864: SkirtSolider2
+    101866: SkirtSolider3
+    101868: SkirtSolider4
+    101870: SkirtSolider5
+    101872: SkirtSolider8
+    101874: SkirtSolider9
+    101876: Soldier1
+    101878: Soldier2
+    101880: Soldier3
+    101882: Soldier3_MeshPart0
+    101884: Soldier3_MeshPart1
+    101886: Soldier3_MeshPart2
+    101888: Soldier4
+    101890: Solider2
+    101892: Solider2_MeshPart0
+    101894: Solider2_MeshPart1
+    101896: Solider2_MeshPart2
+    101898: Spear
+    101900: spear_348
+    101902: spear_348.Shape
+    101904: spear_348_dup_2
+    101906: spear_348_dup_2.Shape
+    101908: Spear_Solder1
+    101910: Spear_Soldier2
+    101912: Spear_Soldier2 1
+    101914: Tail01
+    101916: Tail01 1
+    101918: Tail01 2
+    101920: Tail02
+    101922: Tail02 1
+    101924: Tail02 2
+    101926: Tail03
+    101928: Tail03 1
+    101930: Tail03 2
+    101932: Tail04
+    101934: Tail04 1
+    101936: Tail04 2
+    101938: Tail05
+    101940: Tail05 1
+    101942: Tail05 2
+    101944: Tail06
+    101946: Tail06 1
+    101948: Tail06 2
+    101950: Tail07
+    101952: Tail07 1
+    101954: Tail07 2
+    101956: Tail08
+    101958: Tail08 1
+    101960: Tail08 2
+    101962: Tail09
+    101964: Tail09 1
+    101966: Tail09 2
+    101968: Tail10
+    101970: Tail10 1
+    101972: Tail10 2
+    101974: Tail11
+    101976: Tail11 1
+    101978: Tail11 2
+    101980: Tail12
+    101982: Tail12 1
+    101984: Tail12 2
+    101986: Tail13
+    101988: Tail13 1
+    101990: Tail13 2
+    101992: Tail14
+    101994: Tail14 1
+    101996: Tail14 2
+    101998: Tail15
+    102000: Tail15 1
+    102002: Tail15 2
+    102004: tongue01
+    102006: tongue01 1
+    102008: tongue01 2
+    102010: tongue01 3
+    102012: tongue01 4
+    102014: tongue01 5
+    102016: tongue011
+    102018: tongue01K
+    102020: tongue01M
+    102022: tongue02
+    102024: tongue02 1
+    102026: tongue02 2
+    102028: tongue02 3
+    102030: tongue02 4
+    102032: tongue02 5
+    102034: tongue021
+    102036: tongue02K
+    102038: tongue02M
+    102040: tongue03
+    102042: tongue03 1
+    102044: tongue03 2
+    102046: tongue03 3
+    102048: tongue03 4
+    102050: tongue03 5
+    102052: tongue031
+    102054: tongue03K
+    102056: tongue03M
+    102058: tongue04
+    102060: tongue04 1
+    102062: tongue04 2
+    102064: tongue04 3
+    102066: tongue04 4
+    102068: tongue04 5
+    102070: tongue041
+    102072: tongue04K
+    102074: tongue04M
+    102076: tongue05
+    102078: tongue05 1
+    102080: tongue05 2
+    102082: tongue05 3
+    102084: tongue05 4
+    102086: tongue05 5
+    102088: tongue051
+    102090: tongue05K
+    102092: tongue05M
+    102094: tongueBase
+    102096: tongueBase 1
+    102098: tongueBase 2
+    102100: tongueBase 3
+    102102: tongueBase 4
+    102104: tongueBase 5
+    102106: tongueBase1
+    102108: tongueBaseK
+    102110: tongueBaseM
+    102112: tongueTip
+    102114: tongueTip 1
+    102116: tongueTip 2
+    102118: tongueTip 3
+    102120: tongueTip 4
+    102122: tongueTip 5
+    102124: tongueTip1
+    102126: tongueTipK
+    102128: tongueTipM
+    102130: Upper1
+    102132: Upper2
+    102134: Upper4
+    102136: upperJaw
+    102138: upperJaw 1
+    102140: upperJaw 2
+    102142: upperJaw 3
+    102144: upperJaw 4
+    102146: upperJaw 5
+    102148: upperJaw1
+    102150: upperJawK
+    102152: upperJawM
+    102154: wheels
+    102156: //RootNode
+    400000: abdomen
+    400002: abdomen 1
+    400004: abdomen 2
+    400006: abdomen 3
+    400008: abdomen 4
+    400010: abdomen 5
+    400012: abdomen1
+    400014: abdomen2
+    400016: abdomen2 1
+    400018: abdomen2 2
+    400020: abdomen2 3
+    400022: abdomenH
+    400024: abdomenH 1
+    400026: abdomenH 2
+    400028: abdomenK
+    400030: abdomenM
+    400032: Arrow
+    400034: arrow_1556.Shape
+    400036: Axe
+    400038: Blades
+    400040: blMilHorse_66354_dup_2.Shape
+    400042: blMilHorse_66354_dup_2.Shape_MeshPart0
+    400044: blMilHorse_66354_dup_2.Shape_MeshPart1
+    400046: blMilMan_m4b_68498.Shape
+    400048: blMilMan_m4b_68498.Shape_MeshPart0
+    400050: blMilMan_m4b_68498.Shape_MeshPart1
+    400052: blMilMan_m4b_68498.Shape_MeshPart2
+    400054: bodyMorphs
+    400056: bow_3032.Shape
+    400058: Bridle3_14861.Shape
+    400060: Car
+    400062: Center
+    400064: char
+    400066: chariot
+    400068: chest
+    400070: chest 1
+    400072: chest 2
+    400074: chest 3
+    400076: chest 4
+    400078: chest 5
+    400080: chest1
+    400082: chestH
+    400084: chestH 1
+    400086: chestH 2
+    400088: chestK
+    400090: chestM
+    400092: DistantLight 1
+    400094: Enemy1
+    400096: Enemy2
+    400098: Enemy3Raider
+    400100: Enemy4
+    400102: EnemyHorse1
+    400104: EnemyHorse1_MeshPart0
+    400106: EnemyHorse1_MeshPart1
+    400108: EnemyHorse2
+    400110: EnemyHorse2_MeshPart0
+    400112: EnemyHorse2_MeshPart1
+    400114: Forelock11
+    400116: Forelock11 1
+    400118: Forelock11 2
+    400120: Forelock12
+    400122: Forelock12 1
+    400124: Forelock12 2
+    400126: Forelock13
+    400128: Forelock13 1
+    400130: Forelock13 2
+    400132: Forelock14
+    400134: Forelock14 1
+    400136: Forelock14 2
+    400138: Forelock15
+    400140: Forelock15 1
+    400142: Forelock15 2
+    400144: Forelock21
+    400146: Forelock21 1
+    400148: Forelock21 2
+    400150: Forelock22
+    400152: Forelock22 1
+    400154: Forelock22 2
+    400156: Forelock23
+    400158: Forelock23 1
+    400160: Forelock23 2
+    400162: Forelock24
+    400164: Forelock24 1
+    400166: Forelock24 2
+    400168: Forelock25
+    400170: Forelock25 1
+    400172: Forelock25 2
+    400174: group
+    400176: head
+    400178: head 1
+    400180: head 2
+    400182: head 3
+    400184: head 4
+    400186: head 5
+    400188: head 6
+    400190: head 7
+    400192: head 8
+    400194: head1
+    400196: headK
+    400198: headM
+    400200: hip
+    400202: hip 1
+    400204: hip 2
+    400206: hip 3
+    400208: hip 4
+    400210: hip 5
+    400212: hip1
+    400214: hip2
+    400216: hip3
+    400218: hip4
+    400220: hipK
+    400222: hipM
+    400224: Horse
+    400226: Hourse2
+    400228: KatanaInHand for Genesis
+    400230: KatanaInHand for Genesis.Shape
+    400232: King
+    400234: King1
+    400236: King1_MeshPart0
+    400238: King1_MeshPart1
+    400240: King1_MeshPart2
+    400242: lBigToe
+    400244: lBigToe 1
+    400246: lBigToe 2
+    400248: lBigToe 3
+    400250: lCannonFore
+    400252: lCannonFore 1
+    400254: lCannonFore 2
+    400256: lCannonHind
+    400258: lCannonHind 1
+    400260: lCannonHind 2
+    400262: lCarpal1
+    400264: lCarpal1 1
+    400266: lCarpal1 2
+    400268: lCarpal1 3
+    400270: lCarpal2
+    400272: lCarpal2 1
+    400274: lCarpal2 2
+    400276: lCarpal2 3
+    400278: lCollar
+    400280: lCollar 1
+    400282: lCollar 2
+    400284: lCollar 3
+    400286: lCollar 4
+    400288: lCollar 5
+    400290: lCollar1
+    400292: lCollarK
+    400294: lCollarM
+    400296: lEar
+    400298: lEar 1
+    400300: lEar 2
+    400302: LeftAxes
+    400304: lElbow
+    400306: lElbow 1
+    400308: lElbow 2
+    400310: lEye
+    400312: lEye 1
+    400314: lEye 2
+    400316: lEye 3
+    400318: lEye 4
+    400320: lEye 5
+    400322: lEye 6
+    400324: lEye 7
+    400326: lEye 8
+    400328: lEye1
+    400330: lEyeK
+    400332: lEyeM
+    400334: lFoot
+    400336: lFoot 1
+    400338: lFoot 2
+    400340: lFoot 3
+    400342: lFoot 4
+    400344: lFoot 5
+    400346: lFoot1
+    400348: lFootK
+    400350: lFootM
+    400352: lForeArm
+    400354: lForeArm 1
+    400356: lForeArm 2
+    400358: lForeArm 3
+    400360: lForeArm 4
+    400362: lForeArm 5
+    400364: lForeArm1
+    400366: lForeArmK
+    400368: lForeArmM
+    400370: lForeLeg
+    400372: lForeLeg 1
+    400374: lForeLeg 2
+    400376: lForelock11
+    400378: lForelock11 1
+    400380: lForelock11 2
+    400382: lForelock12
+    400384: lForelock12 1
+    400386: lForelock12 2
+    400388: lForelock13
+    400390: lForelock13 1
+    400392: lForelock13 2
+    400394: lForelock14
+    400396: lForelock14 1
+    400398: lForelock14 2
+    400400: lForelock15
+    400402: lForelock15 1
+    400404: lForelock15 2
+    400406: lForelock21
+    400408: lForelock21 1
+    400410: lForelock21 2
+    400412: lForelock22
+    400414: lForelock22 1
+    400416: lForelock22 2
+    400418: lForelock23
+    400420: lForelock23 1
+    400422: lForelock23 2
+    400424: lForelock24
+    400426: lForelock24 1
+    400428: lForelock24 2
+    400430: lForelock25
+    400432: lForelock25 1
+    400434: lForelock25 2
+    400436: lForelock31
+    400438: lForelock31 1
+    400440: lForelock31 2
+    400442: lForelock32
+    400444: lForelock32 1
+    400446: lForelock32 2
+    400448: lForelock33
+    400450: lForelock33 1
+    400452: lForelock33 2
+    400454: lForelock34
+    400456: lForelock34 1
+    400458: lForelock34 2
+    400460: lForelock35
+    400462: lForelock35 1
+    400464: lForelock35 2
+    400466: lForelock41
+    400468: lForelock41 1
+    400470: lForelock41 2
+    400472: lForelock42
+    400474: lForelock42 1
+    400476: lForelock42 2
+    400478: lForelock43
+    400480: lForelock43 1
+    400482: lForelock43 2
+    400484: lForelock44
+    400486: lForelock44 1
+    400488: lForelock44 2
+    400490: lForelock45
+    400492: lForelock45 1
+    400494: lForelock45 2
+    400496: lFrontstrap
+    400498: lGaskin
+    400500: lGaskin 1
+    400502: lGaskin 2
+    400504: lHand
+    400506: lHand 1
+    400508: lHand 2
+    400510: lHand 3
+    400512: lHand 4
+    400514: lHand 5
+    400516: lHand1
+    400518: lHandK
+    400520: lHandM
+    400522: lHoofFore
+    400524: lHoofFore 1
+    400526: lHoofFore 2
+    400528: lHoofHind
+    400530: lHoofHind 1
+    400532: lHoofHind 2
+    400534: lIndex1
+    400536: lIndex1 1
+    400538: lIndex1 2
+    400540: lIndex1 3
+    400542: lIndex1 4
+    400544: lIndex1 5
+    400546: lIndex11
+    400548: lIndex1K
+    400550: lIndex1M
+    400552: lIndex2
+    400554: lIndex2 1
+    400556: lIndex2 2
+    400558: lIndex2 3
+    400560: lIndex2 4
+    400562: lIndex2 5
+    400564: lIndex21
+    400566: lIndex2K
+    400568: lIndex2M
+    400570: lIndex3
+    400572: lIndex3 1
+    400574: lIndex3 2
+    400576: lIndex3 3
+    400578: lIndex3 4
+    400580: lIndex3 5
+    400582: lIndex31
+    400584: lIndex3K
+    400586: lIndex3M
+    400588: LinearPointLight 1
+    400590: lMid1
+    400592: lMid1 1
+    400594: lMid1 2
+    400596: lMid1 3
+    400598: lMid1 4
+    400600: lMid1 5
+    400602: lMid11
+    400604: lMid1K
+    400606: lMid1M
+    400608: lMid2
+    400610: lMid2 1
+    400612: lMid2 2
+    400614: lMid2 3
+    400616: lMid2 4
+    400618: lMid2 5
+    400620: lMid21
+    400622: lMid2K
+    400624: lMid2M
+    400626: lMid3
+    400628: lMid3 1
+    400630: lMid3 2
+    400632: lMid3 3
+    400634: lMid3 4
+    400636: lMid3 5
+    400638: lMid31
+    400640: lMid3K
+    400642: lMid3M
+    400644: lMidstrap
+    400646: lowerJaw
+    400648: lowerJaw 1
+    400650: lowerJaw 2
+    400652: lowerJaw 3
+    400654: lowerJaw 4
+    400656: lowerJaw 5
+    400658: lowerJaw1
+    400660: lowerJawK
+    400662: lowerJawM
+    400664: lPasternFore
+    400666: lPasternFore 1
+    400668: lPasternFore 2
+    400670: lPasternHind
+    400672: lPasternHind 1
+    400674: lPasternHind 2
+    400676: lPectoral
+    400678: lPectoral 1
+    400680: lPectoral 2
+    400682: lPectoral 3
+    400684: lPinky1
+    400686: lPinky1 1
+    400688: lPinky1 2
+    400690: lPinky1 3
+    400692: lPinky1 4
+    400694: lPinky1 5
+    400696: lPinky11
+    400698: lPinky1K
+    400700: lPinky1M
+    400702: lPinky2
+    400704: lPinky2 1
+    400706: lPinky2 2
+    400708: lPinky2 3
+    400710: lPinky2 4
+    400712: lPinky2 5
+    400714: lPinky21
+    400716: lPinky2K
+    400718: lPinky2M
+    400720: lPinky3
+    400722: lPinky3 1
+    400724: lPinky3 2
+    400726: lPinky3 3
+    400728: lPinky3 4
+    400730: lPinky3 5
+    400732: lPinky31
+    400734: lPinky3K
+    400736: lPinky3M
+    400738: lRing1
+    400740: lRing1 1
+    400742: lRing1 2
+    400744: lRing1 3
+    400746: lRing1 4
+    400748: lRing1 5
+    400750: lRing11
+    400752: lRing1K
+    400754: lRing1M
+    400756: lRing2
+    400758: lRing2 1
+    400760: lRing2 2
+    400762: lRing2 3
+    400764: lRing2 4
+    400766: lRing2 5
+    400768: lRing21
+    400770: lRing2K
+    400772: lRing2M
+    400774: lRing3
+    400776: lRing3 1
+    400778: lRing3 2
+    400780: lRing3 3
+    400782: lRing3 4
+    400784: lRing3 5
+    400786: lRing31
+    400788: lRing3K
+    400790: lRing3M
+    400792: lShin
+    400794: lShin 1
+    400796: lShin 2
+    400798: lShin 3
+    400800: lShin 4
+    400802: lShin 5
+    400804: lShin1
+    400806: lShinK
+    400808: lShinM
+    400810: lShldr
+    400812: lShldr 1
+    400814: lShldr 2
+    400816: lShldr 3
+    400818: lShldr 4
+    400820: lShldr 5
+    400822: lShldr1
+    400824: lShldrK
+    400826: lShldrM
+    400828: lShoulderH
+    400830: lShoulderH 1
+    400832: lShoulderH 2
+    400834: lSmallToe1
+    400836: lSmallToe1 1
+    400838: lSmallToe1 2
+    400840: lSmallToe1 3
+    400842: lSmallToe2
+    400844: lSmallToe2 1
+    400846: lSmallToe2 2
+    400848: lSmallToe2 3
+    400850: lSmallToe3
+    400852: lSmallToe3 1
+    400854: lSmallToe3 2
+    400856: lSmallToe3 3
+    400858: lSmallToe4
+    400860: lSmallToe4 1
+    400862: lSmallToe4 2
+    400864: lSmallToe4 3
+    400866: ltack_2793.Shape
+    400868: lThigh
+    400870: lThigh 1
+    400872: lThigh 2
+    400874: lThigh 3
+    400876: lThigh 4
+    400878: lThigh 5
+    400880: lThigh1
+    400882: lThighHind
+    400884: lThighHind 1
+    400886: lThighHind 2
+    400888: lThighK
+    400890: lThighM
+    400892: lThumb1
+    400894: lThumb1 1
+    400896: lThumb1 2
+    400898: lThumb1 3
+    400900: lThumb1 4
+    400902: lThumb1 5
+    400904: lThumb11
+    400906: lThumb1K
+    400908: lThumb1M
+    400910: lThumb2
+    400912: lThumb2 1
+    400914: lThumb2 2
+    400916: lThumb2 3
+    400918: lThumb2 4
+    400920: lThumb2 5
+    400922: lThumb21
+    400924: lThumb2K
+    400926: lThumb2M
+    400928: lThumb3
+    400930: lThumb3 1
+    400932: lThumb3 2
+    400934: lThumb3 3
+    400936: lThumb3 4
+    400938: lThumb3 5
+    400940: lThumb31
+    400942: lThumb3K
+    400944: lThumb3M
+    400946: lToe
+    400948: lToe 1
+    400950: lToe 2
+    400952: lToe 3
+    400954: lToe 4
+    400956: lToe 5
+    400958: lToe1
+    400960: lToeK
+    400962: lToeM
+    400964: ManeEnd1
+    400966: ManeEnd1 1
+    400968: ManeEnd1 2
+    400970: ManeEnd2
+    400972: ManeEnd2 1
+    400974: ManeEnd2 2
+    400976: ManeEnd3
+    400978: ManeEnd3 1
+    400980: ManeEnd3 2
+    400982: ManeEnd4
+    400984: ManeEnd4 1
+    400986: ManeEnd4 2
+    400988: ManeEnd5
+    400990: ManeEnd5 1
+    400992: ManeEnd5 2
+    400994: ManeEnd6
+    400996: ManeEnd6 1
+    400998: ManeEnd6 2
+    401000: ManeEnd7
+    401002: ManeEnd7 1
+    401004: ManeEnd7 2
+    401006: ManeEnd8
+    401008: ManeEnd8 1
+    401010: ManeEnd8 2
+    401012: Mesh_AnkletAL1
+    401014: Mesh_AnkletAR1
+    401016: Mesh_ApronAa1
+    401018: Mesh_ApronBCD1
+    401020: Mesh_Big_Snake1
+    401022: Mesh_Big_Snake1_MeshPart0
+    401024: Mesh_Big_Snake1_MeshPart1
+    401026: Mesh_BraceletAL1
+    401028: Mesh_BraceletAR1
+    401030: Mesh_Collar1
+    401032: Mesh_Collar1_MeshPart0
+    401034: Mesh_Collar1_MeshPart1
+    401036: Mesh_Collar1_MeshPart2
+    401038: Mesh_Collar1_MeshPart3
+    401040: Mesh_Collar1_MeshPart4
+    401042: Mesh_Collar1_MeshPart5
+    401044: Mesh_Collar1_MeshPart6
+    401046: Mesh_Collar1_MeshPart7
+    401048: Mesh_Collar1_MeshPart8
+    401050: Mesh_Crown1
+    401052: Mesh_Crown1_MeshPart0
+    401054: Mesh_Crown1_MeshPart1
+    401056: Mesh_Crown1_MeshPart2
+    401058: Mesh_Crown1_MeshPart3
+    401060: Mesh_Crown1_MeshPart4
+    401062: Mesh_Mesh_Armor
+    401064: Mesh_Mesh_Armor_MeshPart0
+    401066: Mesh_Mesh_Armor_MeshPart1
+    401068: Mesh_Mesh_Armor_MeshPart2
+    401070: Mesh_Mesh_Armor_MeshPart3
+    401072: Mesh_Mesh_Armor_MeshPart4
+    401074: Mesh_Mesh_Armor_MeshPart5
+    401076: Mesh_Mesh_Armor_MeshPart6
+    401078: Mesh_Mesh_Armor_MeshPart7
+    401080: Mesh_Uraeus1
+    401082: Minster
+    401084: Minster 1
+    401086: Minster 1_MeshPart0
+    401088: Minster 1_MeshPart1
+    401090: Minster 1_MeshPart2
+    401092: neck
+    401094: neck 1
+    401096: neck 2
+    401098: neck 3
+    401100: neck 4
+    401102: neck 5
+    401104: Neck1
+    401106: neck1
+    401108: Neck1 1
+    401110: Neck1 2
+    401112: Neck2
+    401114: Neck2 1
+    401116: Neck2 2
+    401118: Neck3
+    401120: Neck3 1
+    401122: Neck3 2
+    401124: neckK
+    401126: neckM
+    401128: pasted__nurbsToPoly6
+    401130: pelvis
+    401132: pelvis 1
+    401134: pelvis 2
+    401136: pelvis 3
+    401138: pelvis 4
+    401140: pelvis 5
+    401142: pelvis1
+    401144: rBigToe
+    401146: rBigToe 1
+    401148: rBigToe 2
+    401150: rBigToe 3
+    401152: rCannonFore
+    401154: rCannonFore 1
+    401156: rCannonFore 2
+    401158: rCannonHind
+    401160: rCannonHind 1
+    401162: rCannonHind 2
+    401164: rCarpal1
+    401166: rCarpal1 1
+    401168: rCarpal1 2
+    401170: rCarpal1 3
+    401172: rCarpal2
+    401174: rCarpal2 1
+    401176: rCarpal2 2
+    401178: rCarpal2 3
+    401180: rCollar
+    401182: rCollar 1
+    401184: rCollar 2
+    401186: rCollar 3
+    401188: rCollar 4
+    401190: rCollar 5
+    401192: rCollar1
+    401194: rCollarK
+    401196: rCollarM
+    401198: rEar
+    401200: rEar 1
+    401202: rEar 2
+    401204: rElbow
+    401206: rElbow 1
+    401208: rElbow 2
+    401210: rEye
+    401212: rEye 1
+    401214: rEye 2
+    401216: rEye 3
+    401218: rEye 4
+    401220: rEye 5
+    401222: rEye 6
+    401224: rEye 7
+    401226: rEye 8
+    401228: rEye1
+    401230: rEyeK
+    401232: rEyeM
+    401234: rFoot
+    401236: rFoot 1
+    401238: rFoot 2
+    401240: rFoot 3
+    401242: rFoot 4
+    401244: rFoot 5
+    401246: rFoot1
+    401248: rFootK
+    401250: rFootM
+    401252: rForeArm
+    401254: rForeArm 1
+    401256: rForeArm 2
+    401258: rForeArm 3
+    401260: rForeArm 4
+    401262: rForeArm 5
+    401264: rForeArm1
+    401266: rForeArmK
+    401268: rForeArmM
+    401270: rForeLeg
+    401272: rForeLeg 1
+    401274: rForeLeg 2
+    401276: rForelock11
+    401278: rForelock11 1
+    401280: rForelock11 2
+    401282: rForelock12
+    401284: rForelock12 1
+    401286: rForelock12 2
+    401288: rForelock13
+    401290: rForelock13 1
+    401292: rForelock13 2
+    401294: rForelock14
+    401296: rForelock14 1
+    401298: rForelock14 2
+    401300: rForelock15
+    401302: rForelock15 1
+    401304: rForelock15 2
+    401306: rForelock21
+    401308: rForelock21 1
+    401310: rForelock21 2
+    401312: rForelock22
+    401314: rForelock22 1
+    401316: rForelock22 2
+    401318: rForelock23
+    401320: rForelock23 1
+    401322: rForelock23 2
+    401324: rForelock24
+    401326: rForelock24 1
+    401328: rForelock24 2
+    401330: rForelock25
+    401332: rForelock25 1
+    401334: rForelock25 2
+    401336: rForelock31
+    401338: rForelock31 1
+    401340: rForelock31 2
+    401342: rForelock32
+    401344: rForelock32 1
+    401346: rForelock32 2
+    401348: rForelock33
+    401350: rForelock33 1
+    401352: rForelock33 2
+    401354: rForelock34
+    401356: rForelock34 1
+    401358: rForelock34 2
+    401360: rForelock35
+    401362: rForelock35 1
+    401364: rForelock35 2
+    401366: rForelock41
+    401368: rForelock41 1
+    401370: rForelock41 2
+    401372: rForelock42
+    401374: rForelock42 1
+    401376: rForelock42 2
+    401378: rForelock43
+    401380: rForelock43 1
+    401382: rForelock43 2
+    401384: rForelock44
+    401386: rForelock44 1
+    401388: rForelock44 2
+    401390: rForelock45
+    401392: rForelock45 1
+    401394: rForelock45 2
+    401396: rFrontstrap
+    401398: rGaskin
+    401400: rGaskin 1
+    401402: rGaskin 2
+    401404: rHand
+    401406: rHand 1
+    401408: rHand 2
+    401410: rHand 3
+    401412: rHand 4
+    401414: rHand 5
+    401416: rHand1
+    401418: rHandK
+    401420: rHandM
+    401422: rHoofFore
+    401424: rHoofFore 1
+    401426: rHoofFore 2
+    401428: rHoofHind
+    401430: rHoofHind 1
+    401432: rHoofHind 2
+    401434: RightAxes
+    401436: rIndex1
+    401438: rIndex1 1
+    401440: rIndex1 2
+    401442: rIndex1 3
+    401444: rIndex1 4
+    401446: rIndex1 5
+    401448: rIndex11
+    401450: rIndex1K
+    401452: rIndex1M
+    401454: rIndex2
+    401456: rIndex2 1
+    401458: rIndex2 2
+    401460: rIndex2 3
+    401462: rIndex2 4
+    401464: rIndex2 5
+    401466: rIndex21
+    401468: rIndex2K
+    401470: rIndex2M
+    401472: rIndex3
+    401474: rIndex3 1
+    401476: rIndex3 2
+    401478: rIndex3 3
+    401480: rIndex3 4
+    401482: rIndex3 5
+    401484: rIndex31
+    401486: rIndex3K
+    401488: rIndex3M
+    401490: rMid1
+    401492: rMid1 1
+    401494: rMid1 2
+    401496: rMid1 3
+    401498: rMid1 4
+    401500: rMid1 5
+    401502: rMid11
+    401504: rMid1K
+    401506: rMid1M
+    401508: rMid2
+    401510: rMid2 1
+    401512: rMid2 2
+    401514: rMid2 3
+    401516: rMid2 4
+    401518: rMid2 5
+    401520: rMid21
+    401522: rMid2K
+    401524: rMid2M
+    401526: rMid3
+    401528: rMid3 1
+    401530: rMid3 2
+    401532: rMid3 3
+    401534: rMid3 4
+    401536: rMid3 5
+    401538: rMid31
+    401540: rMid3K
+    401542: rMid3M
+    401544: rMidstrap
+    401546: rPasternFore
+    401548: rPasternFore 1
+    401550: rPasternFore 2
+    401552: rPasternHind
+    401554: rPasternHind 1
+    401556: rPasternHind 2
+    401558: rPectoral
+    401560: rPectoral 1
+    401562: rPectoral 2
+    401564: rPectoral 3
+    401566: rPinky1
+    401568: rPinky1 1
+    401570: rPinky1 2
+    401572: rPinky1 3
+    401574: rPinky1 4
+    401576: rPinky1 5
+    401578: rPinky11
+    401580: rPinky1K
+    401582: rPinky1M
+    401584: rPinky2
+    401586: rPinky2 1
+    401588: rPinky2 2
+    401590: rPinky2 3
+    401592: rPinky2 4
+    401594: rPinky2 5
+    401596: rPinky21
+    401598: rPinky2K
+    401600: rPinky2M
+    401602: rPinky3
+    401604: rPinky3 1
+    401606: rPinky3 2
+    401608: rPinky3 3
+    401610: rPinky3 4
+    401612: rPinky3 5
+    401614: rPinky31
+    401616: rPinky3K
+    401618: rPinky3M
+    401620: rRing1
+    401622: rRing1 1
+    401624: rRing1 2
+    401626: rRing1 3
+    401628: rRing1 4
+    401630: rRing1 5
+    401632: rRing11
+    401634: rRing1K
+    401636: rRing1M
+    401638: rRing2
+    401640: rRing2 1
+    401642: rRing2 2
+    401644: rRing2 3
+    401646: rRing2 4
+    401648: rRing2 5
+    401650: rRing21
+    401652: rRing2K
+    401654: rRing2M
+    401656: rRing3
+    401658: rRing3 1
+    401660: rRing3 2
+    401662: rRing3 3
+    401664: rRing3 4
+    401666: rRing3 5
+    401668: rRing31
+    401670: rRing3K
+    401672: rRing3M
+    401674: rShin
+    401676: rShin 1
+    401678: rShin 2
+    401680: rShin 3
+    401682: rShin 4
+    401684: rShin 5
+    401686: rShin1
+    401688: rShinK
+    401690: rShinM
+    401692: rShldr
+    401694: rShldr 1
+    401696: rShldr 2
+    401698: rShldr 3
+    401700: rShldr 4
+    401702: rShldr 5
+    401704: rShldr1
+    401706: rShldrK
+    401708: rShldrM
+    401710: rShoulderH
+    401712: rShoulderH 1
+    401714: rShoulderH 2
+    401716: rSmallToe1
+    401718: rSmallToe1 1
+    401720: rSmallToe1 2
+    401722: rSmallToe1 3
+    401724: rSmallToe2
+    401726: rSmallToe2 1
+    401728: rSmallToe2 2
+    401730: rSmallToe2 3
+    401732: rSmallToe3
+    401734: rSmallToe3 1
+    401736: rSmallToe3 2
+    401738: rSmallToe3 3
+    401740: rSmallToe4
+    401742: rSmallToe4 1
+    401744: rSmallToe4 2
+    401746: rSmallToe4 3
+    401748: rThigh
+    401750: rThigh 1
+    401752: rThigh 2
+    401754: rThigh 3
+    401756: rThigh 4
+    401758: rThigh 5
+    401760: rThigh1
+    401762: rThighHind
+    401764: rThighHind 1
+    401766: rThighHind 2
+    401768: rThighK
+    401770: rThighM
+    401772: rThumb1
+    401774: rThumb1 1
+    401776: rThumb1 2
+    401778: rThumb1 3
+    401780: rThumb1 4
+    401782: rThumb1 5
+    401784: rThumb11
+    401786: rThumb1K
+    401788: rThumb1M
+    401790: rThumb2
+    401792: rThumb2 1
+    401794: rThumb2 2
+    401796: rThumb2 3
+    401798: rThumb2 4
+    401800: rThumb2 5
+    401802: rThumb21
+    401804: rThumb2K
+    401806: rThumb2M
+    401808: rThumb3
+    401810: rThumb3 1
+    401812: rThumb3 2
+    401814: rThumb3 3
+    401816: rThumb3 4
+    401818: rThumb3 5
+    401820: rThumb31
+    401822: rThumb3K
+    401824: rThumb3M
+    401826: rToe
+    401828: rToe 1
+    401830: rToe 2
+    401832: rToe 3
+    401834: rToe 4
+    401836: rToe 5
+    401838: rToe1
+    401840: rToeK
+    401842: rToeM
+    401844: Shield_Soldier2
+    401846: shieldA
+    401848: shieldA_1338.Shape
+    401850: shieldB
+    401852: shieldB1
+    401854: ShieldSoldier
+    401856: ShieldSoldier1
+    401858: ShieldSoldier2
+    401860: SkirtSoldier1
+    401862: SkirtSolider10
+    401864: SkirtSolider2
+    401866: SkirtSolider3
+    401868: SkirtSolider4
+    401870: SkirtSolider5
+    401872: SkirtSolider8
+    401874: SkirtSolider9
+    401876: Soldier1
+    401878: Soldier2
+    401880: Soldier3
+    401882: Soldier3_MeshPart0
+    401884: Soldier3_MeshPart1
+    401886: Soldier3_MeshPart2
+    401888: Soldier4
+    401890: Solider2
+    401892: Solider2_MeshPart0
+    401894: Solider2_MeshPart1
+    401896: Solider2_MeshPart2
+    401898: Spear
+    401900: spear_348
+    401902: spear_348.Shape
+    401904: spear_348_dup_2
+    401906: spear_348_dup_2.Shape
+    401908: Spear_Solder1
+    401910: Spear_Soldier2
+    401912: Spear_Soldier2 1
+    401914: Tail01
+    401916: Tail01 1
+    401918: Tail01 2
+    401920: Tail02
+    401922: Tail02 1
+    401924: Tail02 2
+    401926: Tail03
+    401928: Tail03 1
+    401930: Tail03 2
+    401932: Tail04
+    401934: Tail04 1
+    401936: Tail04 2
+    401938: Tail05
+    401940: Tail05 1
+    401942: Tail05 2
+    401944: Tail06
+    401946: Tail06 1
+    401948: Tail06 2
+    401950: Tail07
+    401952: Tail07 1
+    401954: Tail07 2
+    401956: Tail08
+    401958: Tail08 1
+    401960: Tail08 2
+    401962: Tail09
+    401964: Tail09 1
+    401966: Tail09 2
+    401968: Tail10
+    401970: Tail10 1
+    401972: Tail10 2
+    401974: Tail11
+    401976: Tail11 1
+    401978: Tail11 2
+    401980: Tail12
+    401982: Tail12 1
+    401984: Tail12 2
+    401986: Tail13
+    401988: Tail13 1
+    401990: Tail13 2
+    401992: Tail14
+    401994: Tail14 1
+    401996: Tail14 2
+    401998: Tail15
+    402000: Tail15 1
+    402002: Tail15 2
+    402004: tongue01
+    402006: tongue01 1
+    402008: tongue01 2
+    402010: tongue01 3
+    402012: tongue01 4
+    402014: tongue01 5
+    402016: tongue011
+    402018: tongue01K
+    402020: tongue01M
+    402022: tongue02
+    402024: tongue02 1
+    402026: tongue02 2
+    402028: tongue02 3
+    402030: tongue02 4
+    402032: tongue02 5
+    402034: tongue021
+    402036: tongue02K
+    402038: tongue02M
+    402040: tongue03
+    402042: tongue03 1
+    402044: tongue03 2
+    402046: tongue03 3
+    402048: tongue03 4
+    402050: tongue03 5
+    402052: tongue031
+    402054: tongue03K
+    402056: tongue03M
+    402058: tongue04
+    402060: tongue04 1
+    402062: tongue04 2
+    402064: tongue04 3
+    402066: tongue04 4
+    402068: tongue04 5
+    402070: tongue041
+    402072: tongue04K
+    402074: tongue04M
+    402076: tongue05
+    402078: tongue05 1
+    402080: tongue05 2
+    402082: tongue05 3
+    402084: tongue05 4
+    402086: tongue05 5
+    402088: tongue051
+    402090: tongue05K
+    402092: tongue05M
+    402094: tongueBase
+    402096: tongueBase 1
+    402098: tongueBase 2
+    402100: tongueBase 3
+    402102: tongueBase 4
+    402104: tongueBase 5
+    402106: tongueBase1
+    402108: tongueBaseK
+    402110: tongueBaseM
+    402112: tongueTip
+    402114: tongueTip 1
+    402116: tongueTip 2
+    402118: tongueTip 3
+    402120: tongueTip 4
+    402122: tongueTip 5
+    402124: tongueTip1
+    402126: tongueTipK
+    402128: tongueTipM
+    402130: Upper1
+    402132: Upper2
+    402134: Upper4
+    402136: upperJaw
+    402138: upperJaw 1
+    402140: upperJaw 2
+    402142: upperJaw 3
+    402144: upperJaw 4
+    402146: upperJaw 5
+    402148: upperJaw1
+    402150: upperJawK
+    402152: upperJawM
+    402154: wheels
+    402156: //RootNode
+    2300000: arrow_1556.Shape
+    2300002: Axe
+    2300004: Blades
+    2300006: blMilHorse_66354_dup_2.Shape_MeshPart0
+    2300008: blMilHorse_66354_dup_2.Shape_MeshPart1
+    2300010: blMilMan_m4b_68498.Shape_MeshPart0
+    2300012: blMilMan_m4b_68498.Shape_MeshPart1
+    2300014: blMilMan_m4b_68498.Shape_MeshPart2
+    2300016: bow_3032.Shape
+    2300018: Bridle3_14861.Shape
+    2300020: Center
+    2300022: chariot
+    2300024: Enemy1
+    2300026: Enemy2
+    2300028: Enemy3Raider
+    2300030: Enemy4
+    2300032: EnemyHorse1_MeshPart0
+    2300034: EnemyHorse1_MeshPart1
+    2300036: EnemyHorse2_MeshPart0
+    2300038: EnemyHorse2_MeshPart1
+    2300040: KatanaInHand for Genesis.Shape
+    2300042: King1_MeshPart0
+    2300044: King1_MeshPart1
+    2300046: King1_MeshPart2
+    2300048: LeftAxes
+    2300050: ltack_2793.Shape
+    2300052: Mesh_AnkletAL1
+    2300054: Mesh_AnkletAR1
+    2300056: Mesh_ApronAa1
+    2300058: Mesh_ApronBCD1
+    2300060: Mesh_Big_Snake1_MeshPart0
+    2300062: Mesh_Big_Snake1_MeshPart1
+    2300064: Mesh_BraceletAL1
+    2300066: Mesh_BraceletAR1
+    2300068: Mesh_Collar1_MeshPart0
+    2300070: Mesh_Collar1_MeshPart1
+    2300072: Mesh_Collar1_MeshPart2
+    2300074: Mesh_Collar1_MeshPart3
+    2300076: Mesh_Collar1_MeshPart4
+    2300078: Mesh_Collar1_MeshPart5
+    2300080: Mesh_Collar1_MeshPart6
+    2300082: Mesh_Collar1_MeshPart7
+    2300084: Mesh_Collar1_MeshPart8
+    2300086: Mesh_Crown1_MeshPart0
+    2300088: Mesh_Crown1_MeshPart1
+    2300090: Mesh_Crown1_MeshPart2
+    2300092: Mesh_Crown1_MeshPart3
+    2300094: Mesh_Crown1_MeshPart4
+    2300096: Mesh_Mesh_Armor_MeshPart0
+    2300098: Mesh_Mesh_Armor_MeshPart1
+    2300100: Mesh_Mesh_Armor_MeshPart2
+    2300102: Mesh_Mesh_Armor_MeshPart3
+    2300104: Mesh_Mesh_Armor_MeshPart4
+    2300106: Mesh_Mesh_Armor_MeshPart5
+    2300108: Mesh_Mesh_Armor_MeshPart6
+    2300110: Mesh_Mesh_Armor_MeshPart7
+    2300112: Mesh_Uraeus1
+    2300114: Minster 1_MeshPart0
+    2300116: Minster 1_MeshPart1
+    2300118: Minster 1_MeshPart2
+    2300120: pasted__nurbsToPoly6
+    2300122: RightAxes
+    2300124: Shield_Soldier2
+    2300126: shieldA
+    2300128: shieldA_1338.Shape
+    2300130: shieldB
+    2300132: shieldB1
+    2300134: ShieldSoldier
+    2300136: ShieldSoldier1
+    2300138: ShieldSoldier2
+    2300140: SkirtSoldier1
+    2300142: SkirtSolider10
+    2300144: SkirtSolider2
+    2300146: SkirtSolider3
+    2300148: SkirtSolider4
+    2300150: SkirtSolider5
+    2300152: SkirtSolider8
+    2300154: SkirtSolider9
+    2300156: Soldier3_MeshPart0
+    2300158: Soldier3_MeshPart1
+    2300160: Soldier3_MeshPart2
+    2300162: Solider2_MeshPart0
+    2300164: Solider2_MeshPart1
+    2300166: Solider2_MeshPart2
+    2300168: Spear
+    2300170: spear_348.Shape
+    2300172: spear_348_dup_2.Shape
+    2300174: Spear_Solder1
+    2300176: Spear_Soldier2
+    2300178: Spear_Soldier2 1
+    2300180: Upper1
+    2300182: Upper2
+    2300184: Upper4
+    3300000: arrow_1556.Shape
+    3300002: Axe
+    3300004: Blades
+    3300006: blMilHorse_66354_dup_2.Shape_MeshPart0
+    3300008: blMilHorse_66354_dup_2.Shape_MeshPart1
+    3300010: blMilMan_m4b_68498.Shape_MeshPart0
+    3300012: blMilMan_m4b_68498.Shape_MeshPart1
+    3300014: blMilMan_m4b_68498.Shape_MeshPart2
+    3300016: bow_3032.Shape
+    3300018: Bridle3_14861.Shape
+    3300020: Center
+    3300022: chariot
+    3300024: Enemy1
+    3300026: Enemy2
+    3300028: Enemy3Raider
+    3300030: Enemy4
+    3300032: EnemyHorse1_MeshPart0
+    3300034: EnemyHorse1_MeshPart1
+    3300036: EnemyHorse2_MeshPart0
+    3300038: EnemyHorse2_MeshPart1
+    3300040: KatanaInHand for Genesis.Shape
+    3300042: King1_MeshPart0
+    3300044: King1_MeshPart1
+    3300046: King1_MeshPart2
+    3300048: LeftAxes
+    3300050: ltack_2793.Shape
+    3300052: Mesh_AnkletAL1
+    3300054: Mesh_AnkletAR1
+    3300056: Mesh_ApronAa1
+    3300058: Mesh_ApronBCD1
+    3300060: Mesh_Big_Snake1_MeshPart0
+    3300062: Mesh_Big_Snake1_MeshPart1
+    3300064: Mesh_BraceletAL1
+    3300066: Mesh_BraceletAR1
+    3300068: Mesh_Collar1_MeshPart0
+    3300070: Mesh_Collar1_MeshPart1
+    3300072: Mesh_Collar1_MeshPart2
+    3300074: Mesh_Collar1_MeshPart3
+    3300076: Mesh_Collar1_MeshPart4
+    3300078: Mesh_Collar1_MeshPart5
+    3300080: Mesh_Collar1_MeshPart6
+    3300082: Mesh_Collar1_MeshPart7
+    3300084: Mesh_Collar1_MeshPart8
+    3300086: Mesh_Crown1_MeshPart0
+    3300088: Mesh_Crown1_MeshPart1
+    3300090: Mesh_Crown1_MeshPart2
+    3300092: Mesh_Crown1_MeshPart3
+    3300094: Mesh_Crown1_MeshPart4
+    3300096: Mesh_Mesh_Armor_MeshPart0
+    3300098: Mesh_Mesh_Armor_MeshPart1
+    3300100: Mesh_Mesh_Armor_MeshPart2
+    3300102: Mesh_Mesh_Armor_MeshPart3
+    3300104: Mesh_Mesh_Armor_MeshPart4
+    3300106: Mesh_Mesh_Armor_MeshPart5
+    3300108: Mesh_Mesh_Armor_MeshPart6
+    3300110: Mesh_Mesh_Armor_MeshPart7
+    3300112: Mesh_Uraeus1
+    3300114: Minster 1_MeshPart0
+    3300116: Minster 1_MeshPart1
+    3300118: Minster 1_MeshPart2
+    3300120: pasted__nurbsToPoly6
+    3300122: RightAxes
+    3300124: Shield_Soldier2
+    3300126: shieldA
+    3300128: shieldA_1338.Shape
+    3300130: shieldB
+    3300132: shieldB1
+    3300134: ShieldSoldier
+    3300136: ShieldSoldier1
+    3300138: ShieldSoldier2
+    3300140: SkirtSoldier1
+    3300142: SkirtSolider10
+    3300144: SkirtSolider2
+    3300146: SkirtSolider3
+    3300148: SkirtSolider4
+    3300150: SkirtSolider5
+    3300152: SkirtSolider8
+    3300154: SkirtSolider9
+    3300156: Soldier3_MeshPart0
+    3300158: Soldier3_MeshPart1
+    3300160: Soldier3_MeshPart2
+    3300162: Solider2_MeshPart0
+    3300164: Solider2_MeshPart1
+    3300166: Solider2_MeshPart2
+    3300168: Spear
+    3300170: spear_348.Shape
+    3300172: spear_348_dup_2.Shape
+    3300174: Spear_Solder1
+    3300176: Spear_Soldier2
+    3300178: Spear_Soldier2 1
+    3300180: Upper1
+    3300182: Upper2
+    3300184: Upper4
+    4300000: LeftAxes
+    4300002: RightAxes
+    4300004: Center
+    4300006: Axe
+    4300008: Minster_MeshPart0
+    4300010: Minster_MeshPart1
+    4300012: Minster_MeshPart2
+    4300014: shieldA_1338.Shape
+    4300016: Spear_Soldier2
+    4300018: shieldB1
+    4300020: blMilMan_m4b_68498.Shape_MeshPart0
+    4300022: blMilMan_m4b_68498.Shape_MeshPart1
+    4300024: blMilMan_m4b_68498.Shape_MeshPart2
+    4300026: Bridle3_14861.Shape
+    4300028: ltack_2793.Shape
+    4300030: EnemyHorse1_MeshPart0
+    4300032: EnemyHorse1_MeshPart1
+    4300034: chariot
+    4300036: Blades
+    4300038: bow_3032.Shape
+    4300040: arrow_1556.Shape
+    4300042: King1_MeshPart0
+    4300044: King1_MeshPart1
+    4300046: King1_MeshPart2
+    4300048: Mesh_Mesh_Armor_MeshPart0
+    4300050: Mesh_Mesh_Armor_MeshPart1
+    4300052: Mesh_Mesh_Armor_MeshPart2
+    4300054: Mesh_Mesh_Armor_MeshPart3
+    4300056: Mesh_Mesh_Armor_MeshPart4
+    4300058: Mesh_Mesh_Armor_MeshPart5
+    4300060: Mesh_Mesh_Armor_MeshPart6
+    4300062: Mesh_Mesh_Armor_MeshPart7
+    4300064: Mesh_Collar1_MeshPart0
+    4300066: Mesh_Collar1_MeshPart1
+    4300068: Mesh_Collar1_MeshPart2
+    4300070: Mesh_Collar1_MeshPart3
+    4300072: Mesh_Collar1_MeshPart4
+    4300074: Mesh_Collar1_MeshPart5
+    4300076: Mesh_Collar1_MeshPart6
+    4300078: Mesh_Collar1_MeshPart7
+    4300080: Mesh_Collar1_MeshPart8
+    4300082: Mesh_ApronAa1
+    4300084: Mesh_ApronBCD1
+    4300086: Mesh_Crown1_MeshPart0
+    4300088: Mesh_Crown1_MeshPart1
+    4300090: Mesh_Crown1_MeshPart2
+    4300092: Mesh_Crown1_MeshPart3
+    4300094: Mesh_Crown1_MeshPart4
+    4300096: Mesh_Big_Snake1_MeshPart0
+    4300098: Mesh_Big_Snake1_MeshPart1
+    4300100: Mesh_Uraeus1
+    4300102: Mesh_AnkletAL1
+    4300104: Mesh_AnkletAR1
+    4300106: Mesh_BraceletAL1
+    4300108: Mesh_BraceletAR1
+    4300110: Spear_Solder1
+    4300112: ShieldSoldier
+    4300114: Soldier3_MeshPart0
+    4300116: Soldier3_MeshPart1
+    4300118: Soldier3_MeshPart2
+    4300120: EnemyHorse2_MeshPart0
+    4300122: EnemyHorse2_MeshPart1
+    4300124: Enemy4
+    4300126: Spear
+    4300128: shieldB
+    4300130: Enemy3Raider
+    4300132: spear_348_dup_2.Shape
+    4300134: shieldA
+    4300136: blMilHorse_66354_dup_2.Shape_MeshPart0
+    4300138: blMilHorse_66354_dup_2.Shape_MeshPart1
+    4300140: Enemy2
+    4300142: ShieldSoldier1
+    4300144: spear_348.Shape
+    4300146: Enemy1
+    4300148: ShieldSoldier2
+    4300150: KatanaInHand for Genesis.Shape
+    4300152: Spear_Soldier2
+    4300154: Shield_Soldier2
+    4300156: Solider2_MeshPart0
+    4300158: Solider2_MeshPart1
+    4300160: Solider2_MeshPart2
+    4300162: Upper1
+    4300164: Upper2
+    4300166: Upper4
+    4300168: SkirtSoldier1
+    4300170: SkirtSolider2
+    4300172: SkirtSolider3
+    4300174: SkirtSolider4
+    4300176: SkirtSolider5
+    4300178: pasted__nurbsToPoly6
+    4300180: SkirtSolider8
+    4300182: SkirtSolider9
+    4300184: SkirtSolider10
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

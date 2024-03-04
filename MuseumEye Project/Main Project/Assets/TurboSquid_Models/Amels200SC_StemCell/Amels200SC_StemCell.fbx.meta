@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 60190b637c3070347b45d1de92da2859
+timeCreated: 1553284969
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Amels_200_hull
+    100004: Amels__anchors
+    100006: Amels_aft_sets
+    100008: Amels_deck_accessory
+    100010: Amels_glass_surface
+    100012: Amels_large_sofa_pool
+    100014: Amels_must_scanners_vents_supports
+    100016: Amels_outdoor_beds001
+    100018: Amels_pillow_chairs
+    100020: Amels_pool_complex
+    100022: Amels_propeller
+    100024: Amels_proxy
+    100026: Amels_raillings
+    100028: Amels_speed_boat_one
+    100030: Amels_speed_boat_two
+    100032: Amels_stairs
+    100034: Amels_tents
+    400000: //RootNode
+    400002: Amels_200_hull
+    400004: Amels__anchors
+    400006: Amels_aft_sets
+    400008: Amels_deck_accessory
+    400010: Amels_glass_surface
+    400012: Amels_large_sofa_pool
+    400014: Amels_must_scanners_vents_supports
+    400016: Amels_outdoor_beds001
+    400018: Amels_pillow_chairs
+    400020: Amels_pool_complex
+    400022: Amels_propeller
+    400024: Amels_proxy
+    400026: Amels_raillings
+    400028: Amels_speed_boat_one
+    400030: Amels_speed_boat_two
+    400032: Amels_stairs
+    400034: Amels_tents
+    2300000: Amels_200_hull
+    2300002: Amels__anchors
+    2300004: Amels_aft_sets
+    2300006: Amels_deck_accessory
+    2300008: Amels_glass_surface
+    2300010: Amels_large_sofa_pool
+    2300012: Amels_must_scanners_vents_supports
+    2300014: Amels_outdoor_beds001
+    2300016: Amels_pillow_chairs
+    2300018: Amels_pool_complex
+    2300020: Amels_propeller
+    2300022: Amels_proxy
+    2300024: Amels_raillings
+    2300026: Amels_speed_boat_one
+    2300028: Amels_speed_boat_two
+    2300030: Amels_stairs
+    2300032: Amels_tents
+    3300000: Amels_200_hull
+    3300002: Amels__anchors
+    3300004: Amels_aft_sets
+    3300006: Amels_deck_accessory
+    3300008: Amels_glass_surface
+    3300010: Amels_large_sofa_pool
+    3300012: Amels_must_scanners_vents_supports
+    3300014: Amels_outdoor_beds001
+    3300016: Amels_pillow_chairs
+    3300018: Amels_pool_complex
+    3300020: Amels_propeller
+    3300022: Amels_proxy
+    3300024: Amels_raillings
+    3300026: Amels_speed_boat_one
+    3300028: Amels_speed_boat_two
+    3300030: Amels_stairs
+    3300032: Amels_tents
+    4300000: Amels_outdoor_beds001
+    4300002: Amels_speed_boat_one
+    4300004: Amels_propeller
+    4300006: Amels_large_sofa_pool
+    4300008: Amels_pillow_chairs
+    4300010: Amels_pool_complex
+    4300012: Amels__anchors
+    4300014: Amels_aft_sets
+    4300016: Amels_raillings
+    4300018: Amels_200_hull
+    4300020: Amels_proxy
+    4300022: Amels_glass_surface
+    4300024: Amels_deck_accessory
+    4300026: Amels_speed_boat_two
+    4300028: Amels_tents
+    4300030: Amels_stairs
+    4300032: Amels_must_scanners_vents_supports
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

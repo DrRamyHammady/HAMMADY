@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: 0b86a5c4df16d364fa878f6906aa0756
+timeCreated: 1554048409
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Princess_glass_windows
+    100004: Princess_hull
+    100006: Princess_metal_raillings
+    100008: Princess_propeller
+    100010: Princess_sofas_pillows
+    100012: Princess_stairs_tables_console
+    100014: Princess_tent_scanners_stairs
+    400000: //RootNode
+    400002: Princess_glass_windows
+    400004: Princess_hull
+    400006: Princess_metal_raillings
+    400008: Princess_propeller
+    400010: Princess_sofas_pillows
+    400012: Princess_stairs_tables_console
+    400014: Princess_tent_scanners_stairs
+    2300000: Princess_glass_windows
+    2300002: Princess_hull
+    2300004: Princess_metal_raillings
+    2300006: Princess_propeller
+    2300008: Princess_sofas_pillows
+    2300010: Princess_stairs_tables_console
+    2300012: Princess_tent_scanners_stairs
+    3300000: Princess_glass_windows
+    3300002: Princess_hull
+    3300004: Princess_metal_raillings
+    3300006: Princess_propeller
+    3300008: Princess_sofas_pillows
+    3300010: Princess_stairs_tables_console
+    3300012: Princess_tent_scanners_stairs
+    4300000: Princess_sofas_pillows
+    4300002: Princess_metal_raillings
+    4300004: Princess_tent_scanners_stairs
+    4300006: Princess_hull
+    4300008: Princess_stairs_tables_console
+    4300010: Princess_propeller
+    4300012: Princess_glass_windows
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 6b1c3ef7784163342b96738564bf7603
+timeCreated: 1477928220
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AmpleSoft
+  fontNames:
+  - AmpleSoft
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 05f68264049b7f34eb2d5e7840d3abec, type: 3}
+  - {fileID: 12800000, guid: 5153fe964e11940a7a90e112947596f5, type: 3}
+  - {fileID: 12800000, guid: 1a0dc4371b49f4f989f2739035fc2af4, type: 3}
+  - {fileID: 12800000, guid: 636cef8850d52cb41a7e7ea9132ad9d2, type: 3}
+  - {fileID: 12800000, guid: 5820975b519315144a67c921f13c0d17, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

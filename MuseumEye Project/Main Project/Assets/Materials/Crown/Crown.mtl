@@ -1,0 +1,40 @@
+newmtl cobra
+d 1
+Ns 0.95
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0.02
+map_Kd /Maps/qCap_df-G.jpg
+
+newmtl wing-1
+d 1
+Ns 0.95
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0.02
+map_Kd /Maps/qCap_df-R.jpg
+
+newmtl wing-2
+d 1
+Ns 0.95
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0.02
+map_Kd /Maps/qCap_df-B.jpg
+
+newmtl cap
+d 1
+Ns 0.95
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Km 0.02
+map_Kd /Maps/qCap_df-G.jpg
+
