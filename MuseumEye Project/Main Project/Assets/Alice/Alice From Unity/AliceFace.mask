@@ -1,0 +1,486 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: AliceFace
+  m_Mask: 00000000000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/Facial_Hookup
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/CheekPuff_POS_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/CheekPuff_POS_GRP/CheekPuff_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/CheekPuff_POS_GRP/CheekPuff_GRP/CheekPuff_CTRL
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/Frown_POS_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/Frown_POS_GRP/Frown_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/Frown_POS_GRP/Frown_GRP/Frown_CTRL
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/JawInOut_POS_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/JawInOut_POS_GRP/JawInOut_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/JawInOut_POS_GRP/JawInOut_GRP/JawInOut_CTRL
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/JawPos_POS_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/JawPos_POS_GRP/JawPos_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/JawPos_POS_GRP/JawPos_GRP/JawPos_CTRL
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/JawRot_POS_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/JawRot_POS_GRP/JawRot_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/JawRot_POS_GRP/JawRot_GRP/JawRot_CTRL
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/LeftBrow_POS_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/LeftBrow_POS_GRP/LeftBrow_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/LeftBrow_POS_GRP/LeftBrow_GRP/LeftBrow_CTRL
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/LeftBrowOuterLower_POS_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/LeftBrowOuterLower_POS_GRP/LeftBrowOuterLower_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/LeftBrowOuterLower_POS_GRP/LeftBrowOuterLower_GRP/LeftBrowOuterLower_CTRL
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/LeftEyeBlink_POS_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/LeftEyeBlink_POS_GRP/LeftEyeBlink_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/LeftEyeBlink_POS_GRP/LeftEyeBlink_GRP/LeftEyeBlink_CTRL
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/LowerLipDown_POS_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/LowerLipDown_POS_GRP/LowerLipDown_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/LowerLipDown_POS_GRP/LowerLipDown_GRP/LowerLipDown_CTRL
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/LowerLipInOut_POS_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/LowerLipInOut_POS_GRP/LowerLipInOut_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/LowerLipInOut_POS_GRP/LowerLipInOut_GRP/LowerLipInOut_CTRL
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/MouthNarrow_POS_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/MouthNarrow_POS_GRP/MouthNarrow_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/MouthNarrow_POS_GRP/MouthNarrow_GRP/MouthNarrow_CTRL
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/MouthPosition_POS_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/MouthPosition_POS_GRP/MouthPosition_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/MouthPosition_POS_GRP/MouthPosition_GRP/MouthPosition_CTRL
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/NoseScrunch_POS_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/NoseScrunch_POS_GRP/NoseScrunch_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/NoseScrunch_POS_GRP/NoseScrunch_GRP/NoseScrunch_CTRL
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/RightBrow_POS_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/RightBrow_POS_GRP/RightBrow_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/RightBrow_POS_GRP/RightBrow_GRP/RightBrow_CTRL
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/RightBrowOuterLower_POS_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/RightBrowOuterLower_POS_GRP/RightBrowOuterLower_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/RightBrowOuterLower_POS_GRP/RightBrowOuterLower_GRP/RightBrowOuterLower_CTRL
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/RightEyeBlink_POS_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/RightEyeBlink_POS_GRP/RightEyeBlink_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/RightEyeBlink_POS_GRP/RightEyeBlink_GRP/RightEyeBlink_CTRL
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/Smile_POS_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/Smile_POS_GRP/Smile_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/Smile_POS_GRP/Smile_GRP/Smile_CTRL
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/Squint_POS_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/Squint_POS_GRP/Squint_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/Squint_POS_GRP/Squint_GRP/Squint_CTRL
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/Sync_POS_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/Sync_POS_GRP/Sync_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/Sync_POS_GRP/Sync_GRP/Sync_CTRL
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/Tongue_POS_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/Tongue_POS_GRP/Tongue_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/Tongue_POS_GRP/Tongue_GRP/Tongue_CTRL
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/UpperLipInOut_POS_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/UpperLipInOut_POS_GRP/UpperLipInOut_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/UpperLipInOut_POS_GRP/UpperLipInOut_GRP/UpperLipInOut_CTRL
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/UpperLipUp_POS_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/UpperLipUp_POS_GRP/UpperLipUp_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/UpperLipUp_POS_GRP/UpperLipUp_GRP/UpperLipUp_CTRL
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/Whistle_POS_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/Whistle_POS_GRP/Whistle_GRP
+    m_Weight: 1
+  - m_Path: Facial_CTRLS_GRP/FacialControl_POS_GRP/Facial_CTRLs_Mover/Whistle_POS_GRP/Whistle_GRP/Whistle_CTRL
+    m_Weight: 1
+  - m_Path: Joint_GRP
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_LeftUpLeg
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_LeftUpLeg/Bind_LeftLeg
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_LeftUpLeg/Bind_LeftLeg/Bind_LeftFoot
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_LeftUpLeg/Bind_LeftLeg/Bind_LeftFoot/Bind_LeftToeBase
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_RightUpLeg
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_RightUpLeg/Bind_RightLeg
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_RightUpLeg/Bind_RightLeg/Bind_RightFoot
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_RightUpLeg/Bind_RightLeg/Bind_RightFoot/Bind_RightToeBase
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_LeftShoulder
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_LeftShoulder/Bind_LeftArm
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_LeftShoulder/Bind_LeftArm/Bind_LeftForeArm
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_LeftShoulder/Bind_LeftArm/Bind_LeftForeArm/Bind_LeftHand
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_LeftShoulder/Bind_LeftArm/Bind_LeftForeArm/Bind_LeftHand/Bind_LeftHandIndex1
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_LeftShoulder/Bind_LeftArm/Bind_LeftForeArm/Bind_LeftHand/Bind_LeftHandIndex1/Bind_LeftHandIndex2
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_LeftShoulder/Bind_LeftArm/Bind_LeftForeArm/Bind_LeftHand/Bind_LeftHandIndex1/Bind_LeftHandIndex2/Bind_LeftHandIndex3
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_LeftShoulder/Bind_LeftArm/Bind_LeftForeArm/Bind_LeftHand/Bind_LeftHandMiddle1
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_LeftShoulder/Bind_LeftArm/Bind_LeftForeArm/Bind_LeftHand/Bind_LeftHandMiddle1/Bind_LeftHandMiddle2
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_LeftShoulder/Bind_LeftArm/Bind_LeftForeArm/Bind_LeftHand/Bind_LeftHandMiddle1/Bind_LeftHandMiddle2/Bind_LeftHandMiddle3
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_LeftShoulder/Bind_LeftArm/Bind_LeftForeArm/Bind_LeftHand/Bind_LeftHandPinky1
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_LeftShoulder/Bind_LeftArm/Bind_LeftForeArm/Bind_LeftHand/Bind_LeftHandPinky1/Bind_LeftHandPinky2
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_LeftShoulder/Bind_LeftArm/Bind_LeftForeArm/Bind_LeftHand/Bind_LeftHandPinky1/Bind_LeftHandPinky2/Bind_LeftHandPinky3
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_LeftShoulder/Bind_LeftArm/Bind_LeftForeArm/Bind_LeftHand/Bind_LeftHandRing1
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_LeftShoulder/Bind_LeftArm/Bind_LeftForeArm/Bind_LeftHand/Bind_LeftHandRing1/Bind_LeftHandRing2
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_LeftShoulder/Bind_LeftArm/Bind_LeftForeArm/Bind_LeftHand/Bind_LeftHandRing1/Bind_LeftHandRing2/Bind_LeftHandRing3
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_LeftShoulder/Bind_LeftArm/Bind_LeftForeArm/Bind_LeftHand/Bind_LeftHandThumb1
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_LeftShoulder/Bind_LeftArm/Bind_LeftForeArm/Bind_LeftHand/Bind_LeftHandThumb1/Bind_LeftHandThumb2
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_LeftShoulder/Bind_LeftArm/Bind_LeftForeArm/Bind_LeftHand/Bind_LeftHandThumb1/Bind_LeftHandThumb2/Bind_LeftHandThumb3
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_Neck
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_Neck/Bind_Head
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_Neck/Bind_Head/Bind_LeftEye
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_Neck/Bind_Head/Bind_RightEye
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_RightShoulder
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_RightShoulder/Bind_RightArm
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_RightShoulder/Bind_RightArm/Bind_RightForeArm
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_RightShoulder/Bind_RightArm/Bind_RightForeArm/Bind_RightHand
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_RightShoulder/Bind_RightArm/Bind_RightForeArm/Bind_RightHand/Bind_RightHandIndex1
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_RightShoulder/Bind_RightArm/Bind_RightForeArm/Bind_RightHand/Bind_RightHandIndex1/Bind_RightHandIndex2
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_RightShoulder/Bind_RightArm/Bind_RightForeArm/Bind_RightHand/Bind_RightHandIndex1/Bind_RightHandIndex2/Bind_RightHandIndex3
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_RightShoulder/Bind_RightArm/Bind_RightForeArm/Bind_RightHand/Bind_RightHandMiddle1
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_RightShoulder/Bind_RightArm/Bind_RightForeArm/Bind_RightHand/Bind_RightHandMiddle1/Bind_RightHandMiddle2
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_RightShoulder/Bind_RightArm/Bind_RightForeArm/Bind_RightHand/Bind_RightHandMiddle1/Bind_RightHandMiddle2/Bind_RightHandMiddle3
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_RightShoulder/Bind_RightArm/Bind_RightForeArm/Bind_RightHand/Bind_RightHandPinky1
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_RightShoulder/Bind_RightArm/Bind_RightForeArm/Bind_RightHand/Bind_RightHandPinky1/Bind_RightHandPinky2
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_RightShoulder/Bind_RightArm/Bind_RightForeArm/Bind_RightHand/Bind_RightHandPinky1/Bind_RightHandPinky2/Bind_RightHandPinky3
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_RightShoulder/Bind_RightArm/Bind_RightForeArm/Bind_RightHand/Bind_RightHandRing1
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_RightShoulder/Bind_RightArm/Bind_RightForeArm/Bind_RightHand/Bind_RightHandRing1/Bind_RightHandRing2
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_RightShoulder/Bind_RightArm/Bind_RightForeArm/Bind_RightHand/Bind_RightHandRing1/Bind_RightHandRing2/Bind_RightHandRing3
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_RightShoulder/Bind_RightArm/Bind_RightForeArm/Bind_RightHand/Bind_RightHandThumb1
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_RightShoulder/Bind_RightArm/Bind_RightForeArm/Bind_RightHand/Bind_RightHandThumb1/Bind_RightHandThumb2
+    m_Weight: 1
+  - m_Path: Joint_GRP/Bind_Joint_GRP/Bind_Hips/Bind_Spine/Bind_Spine1/Bind_Spine2/Bind_RightShoulder/Bind_RightArm/Bind_RightForeArm/Bind_RightHand/Bind_RightHandThumb1/Bind_RightHandThumb2/Bind_RightHandThumb3
+    m_Weight: 1
+  - m_Path: Mesh_GRP
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Blink_Left
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Blink_Left1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Blink_Right
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Blink_Right1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Body
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Bottoms
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_BrowsDown_Left
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_BrowsDown_Left1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_BrowsDown_Right
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_BrowsDown_Right1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_BrowsIn_Left
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_BrowsIn_Left1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_BrowsIn_Right
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_BrowsIn_Right1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_BrowsOuterLower_Left
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_BrowsOuterLower_Left1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_BrowsOuterLower_Right
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_BrowsOuterLower_Right1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_BrowsUp_Left
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_BrowsUp_Left1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_BrowsUp_Right
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_BrowsUp_Right1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_CheekPuff_Left
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_CheekPuff_Left1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_CheekPuff_Right
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_CheekPuff_Right1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_default1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Eyelashes
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_EyesWide_Left
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_EyesWide_Left1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_EyesWide_Right
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_EyesWide_Right1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Frown_Left
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Frown_Left1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Frown_Right
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Frown_Right1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Hair
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Jaw_Down
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Jaw_Down1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Jaw_Left
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Jaw_Left1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Jaw_Right
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Jaw_Right1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Jaw_Up
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Jaw_Up1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_JawBackward
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_JawBackward1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_JawForeward
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_JawForeward1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_JawRotateY_Left
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_JawRotateY_Left1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_JawRotateY_Right
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_JawRotateY_Right1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_JawRotateZ_Left
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_JawRotateZ_Left1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_JawRotateZ_Right
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_JawRotateZ_Right1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_LowerLipDown_Left
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_LowerLipDown_Left1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_LowerLipDown_Right
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_LowerLipDown_Right1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_LowerLipIn
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_LowerLipIn1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_LowerLipOut
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_LowerLipOut1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Midmouth_Left
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Midmouth_Left1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Midmouth_Right
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Midmouth_Right1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_MouthDown
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_MouthDown1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_MouthNarrow_Left
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_MouthNarrow_Left1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_MouthNarrow_Right
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_MouthNarrow_Right1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_MouthOpen
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_MouthOpen1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_MouthUp
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_MouthUp1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_MouthWhistle_NarrowAdjust_Left
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_MouthWhistle_NarrowAdjust_Left1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_MouthWhistle_NarrowAdjust_Right
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_MouthWhistle_NarrowAdjust_Right1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_NoseScrunch_Left
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_NoseScrunch_Left1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_NoseScrunch_Right
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_NoseScrunch_Right1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Shoes
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Smile_Left
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Smile_Left1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Smile_Right
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Smile_Right1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Squint_Left
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Squint_Left1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Squint_Right
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Squint_Right1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_TongueUp
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_TongueUp1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_Tops
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_UpperLipIn
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_UpperLipIn1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_UpperLipOut
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_UpperLipOut1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_UpperLipUp_Left
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_UpperLipUp_Left1
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_UpperLipUp_Right
+    m_Weight: 1
+  - m_Path: Mesh_GRP/Mesh_UpperLipUp_Right1
+    m_Weight: 1
