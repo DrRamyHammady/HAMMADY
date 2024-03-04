@@ -1,0 +1,2486 @@
+fileFormatVersion: 2
+guid: ec0037a7429084b4b89963c2b174ed1b
+timeCreated: 1586439102
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bind_Head
+    100002: Bind_Hips
+    100004: Bind_Joint_GRP
+    100006: Bind_LeftArm
+    100008: Bind_LeftEye
+    100010: Bind_LeftFoot
+    100012: Bind_LeftForeArm
+    100014: Bind_LeftHand
+    100016: Bind_LeftHandIndex1
+    100018: Bind_LeftHandIndex2
+    100020: Bind_LeftHandIndex3
+    100022: Bind_LeftHandMiddle1
+    100024: Bind_LeftHandMiddle2
+    100026: Bind_LeftHandMiddle3
+    100028: Bind_LeftHandPinky1
+    100030: Bind_LeftHandPinky2
+    100032: Bind_LeftHandPinky3
+    100034: Bind_LeftHandRing1
+    100036: Bind_LeftHandRing2
+    100038: Bind_LeftHandRing3
+    100040: Bind_LeftHandThumb1
+    100042: Bind_LeftHandThumb2
+    100044: Bind_LeftHandThumb3
+    100046: Bind_LeftLeg
+    100048: Bind_LeftShoulder
+    100050: Bind_LeftToeBase
+    100052: Bind_LeftUpLeg
+    100054: Bind_Neck
+    100056: Bind_RightArm
+    100058: Bind_RightEye
+    100060: Bind_RightFoot
+    100062: Bind_RightForeArm
+    100064: Bind_RightHand
+    100066: Bind_RightHandIndex1
+    100068: Bind_RightHandIndex2
+    100070: Bind_RightHandIndex3
+    100072: Bind_RightHandMiddle1
+    100074: Bind_RightHandMiddle2
+    100076: Bind_RightHandMiddle3
+    100078: Bind_RightHandPinky1
+    100080: Bind_RightHandPinky2
+    100082: Bind_RightHandPinky3
+    100084: Bind_RightHandRing1
+    100086: Bind_RightHandRing2
+    100088: Bind_RightHandRing3
+    100090: Bind_RightHandThumb1
+    100092: Bind_RightHandThumb2
+    100094: Bind_RightHandThumb3
+    100096: Bind_RightLeg
+    100098: Bind_RightShoulder
+    100100: Bind_RightToeBase
+    100102: Bind_RightUpLeg
+    100104: Bind_Spine
+    100106: Bind_Spine1
+    100108: Bind_Spine2
+    100110: CheekPuff_CTRL
+    100112: CheekPuff_GRP
+    100114: CheekPuff_POS_GRP
+    100116: Facial_CTRLS_GRP
+    100118: Facial_CTRLs_Mover
+    100120: Facial_Hookup
+    100122: FacialControl_POS_GRP
+    100124: Frown_CTRL
+    100126: Frown_GRP
+    100128: Frown_POS_GRP
+    100130: //RootNode
+    100132: JawInOut_CTRL
+    100134: JawInOut_GRP
+    100136: JawInOut_POS_GRP
+    100138: JawPos_CTRL
+    100140: JawPos_GRP
+    100142: JawPos_POS_GRP
+    100144: JawRot_CTRL
+    100146: JawRot_GRP
+    100148: JawRot_POS_GRP
+    100150: Joint_GRP
+    100152: LeftBrow_CTRL
+    100154: LeftBrow_GRP
+    100156: LeftBrow_POS_GRP
+    100158: LeftBrowOuterLower_CTRL
+    100160: LeftBrowOuterLower_GRP
+    100162: LeftBrowOuterLower_POS_GRP
+    100164: LeftEyeBlink_CTRL
+    100166: LeftEyeBlink_GRP
+    100168: LeftEyeBlink_POS_GRP
+    100170: LowerLipDown_CTRL
+    100172: LowerLipDown_GRP
+    100174: LowerLipDown_POS_GRP
+    100176: LowerLipInOut_CTRL
+    100178: LowerLipInOut_GRP
+    100180: LowerLipInOut_POS_GRP
+    100182: Mesh_Blink_Left
+    100184: Mesh_Blink_Left1
+    100186: Mesh_Blink_Right
+    100188: Mesh_Blink_Right1
+    100190: Mesh_Body
+    100192: Mesh_Bottoms
+    100194: Mesh_BrowsDown_Left
+    100196: Mesh_BrowsDown_Left1
+    100198: Mesh_BrowsDown_Right
+    100200: Mesh_BrowsDown_Right1
+    100202: Mesh_BrowsIn_Left
+    100204: Mesh_BrowsIn_Left1
+    100206: Mesh_BrowsIn_Right
+    100208: Mesh_BrowsIn_Right1
+    100210: Mesh_BrowsOuterLower_Left
+    100212: Mesh_BrowsOuterLower_Left1
+    100214: Mesh_BrowsOuterLower_Right
+    100216: Mesh_BrowsOuterLower_Right1
+    100218: Mesh_BrowsUp_Left
+    100220: Mesh_BrowsUp_Left1
+    100222: Mesh_BrowsUp_Right
+    100224: Mesh_BrowsUp_Right1
+    100226: Mesh_CheekPuff_Left
+    100228: Mesh_CheekPuff_Left1
+    100230: Mesh_CheekPuff_Right
+    100232: Mesh_CheekPuff_Right1
+    100234: Mesh_default1
+    100236: Mesh_Eyelashes
+    100238: Mesh_EyesWide_Left
+    100240: Mesh_EyesWide_Left1
+    100242: Mesh_EyesWide_Right
+    100244: Mesh_EyesWide_Right1
+    100246: Mesh_Frown_Left
+    100248: Mesh_Frown_Left1
+    100250: Mesh_Frown_Right
+    100252: Mesh_Frown_Right1
+    100254: Mesh_GRP
+    100256: Mesh_Hair
+    100258: Mesh_Jaw_Down
+    100260: Mesh_Jaw_Down1
+    100262: Mesh_Jaw_Left
+    100264: Mesh_Jaw_Left1
+    100266: Mesh_Jaw_Right
+    100268: Mesh_Jaw_Right1
+    100270: Mesh_Jaw_Up
+    100272: Mesh_Jaw_Up1
+    100274: Mesh_JawBackward
+    100276: Mesh_JawBackward1
+    100278: Mesh_JawForeward
+    100280: Mesh_JawForeward1
+    100282: Mesh_JawRotateY_Left
+    100284: Mesh_JawRotateY_Left1
+    100286: Mesh_JawRotateY_Right
+    100288: Mesh_JawRotateY_Right1
+    100290: Mesh_JawRotateZ_Left
+    100292: Mesh_JawRotateZ_Left1
+    100294: Mesh_JawRotateZ_Right
+    100296: Mesh_JawRotateZ_Right1
+    100298: Mesh_LowerLipDown_Left
+    100300: Mesh_LowerLipDown_Left1
+    100302: Mesh_LowerLipDown_Right
+    100304: Mesh_LowerLipDown_Right1
+    100306: Mesh_LowerLipIn
+    100308: Mesh_LowerLipIn1
+    100310: Mesh_LowerLipOut
+    100312: Mesh_LowerLipOut1
+    100314: Mesh_Midmouth_Left
+    100316: Mesh_Midmouth_Left1
+    100318: Mesh_Midmouth_Right
+    100320: Mesh_Midmouth_Right1
+    100322: Mesh_MouthDown
+    100324: Mesh_MouthDown1
+    100326: Mesh_MouthNarrow_Left
+    100328: Mesh_MouthNarrow_Left1
+    100330: Mesh_MouthNarrow_Right
+    100332: Mesh_MouthNarrow_Right1
+    100334: Mesh_MouthOpen
+    100336: Mesh_MouthOpen1
+    100338: Mesh_MouthUp
+    100340: Mesh_MouthUp1
+    100342: Mesh_MouthWhistle_NarrowAdjust_Left
+    100344: Mesh_MouthWhistle_NarrowAdjust_Left1
+    100346: Mesh_MouthWhistle_NarrowAdjust_Right
+    100348: Mesh_MouthWhistle_NarrowAdjust_Right1
+    100350: Mesh_NoseScrunch_Left
+    100352: Mesh_NoseScrunch_Left1
+    100354: Mesh_NoseScrunch_Right
+    100356: Mesh_NoseScrunch_Right1
+    100358: Mesh_Shoes
+    100360: Mesh_Smile_Left
+    100362: Mesh_Smile_Left1
+    100364: Mesh_Smile_Right
+    100366: Mesh_Smile_Right1
+    100368: Mesh_Squint_Left
+    100370: Mesh_Squint_Left1
+    100372: Mesh_Squint_Right
+    100374: Mesh_Squint_Right1
+    100376: Mesh_TongueUp
+    100378: Mesh_TongueUp1
+    100380: Mesh_Tops
+    100382: Mesh_UpperLipIn
+    100384: Mesh_UpperLipIn1
+    100386: Mesh_UpperLipOut
+    100388: Mesh_UpperLipOut1
+    100390: Mesh_UpperLipUp_Left
+    100392: Mesh_UpperLipUp_Left1
+    100394: Mesh_UpperLipUp_Right
+    100396: Mesh_UpperLipUp_Right1
+    100398: MouthNarrow_CTRL
+    100400: MouthNarrow_GRP
+    100402: MouthNarrow_POS_GRP
+    100404: MouthPosition_CTRL
+    100406: MouthPosition_GRP
+    100408: MouthPosition_POS_GRP
+    100410: NoseScrunch_CTRL
+    100412: NoseScrunch_GRP
+    100414: NoseScrunch_POS_GRP
+    100416: RightBrow_CTRL
+    100418: RightBrow_GRP
+    100420: RightBrow_POS_GRP
+    100422: RightBrowOuterLower_CTRL
+    100424: RightBrowOuterLower_GRP
+    100426: RightBrowOuterLower_POS_GRP
+    100428: RightEyeBlink_CTRL
+    100430: RightEyeBlink_GRP
+    100432: RightEyeBlink_POS_GRP
+    100434: Smile_CTRL
+    100436: Smile_GRP
+    100438: Smile_POS_GRP
+    100440: Squint_CTRL
+    100442: Squint_GRP
+    100444: Squint_POS_GRP
+    100446: Sync_CTRL
+    100448: Sync_GRP
+    100450: Sync_POS_GRP
+    100452: Tongue_CTRL
+    100454: Tongue_GRP
+    100456: Tongue_POS_GRP
+    100458: UpperLipInOut_CTRL
+    100460: UpperLipInOut_GRP
+    100462: UpperLipInOut_POS_GRP
+    100464: UpperLipUp_CTRL
+    100466: UpperLipUp_GRP
+    100468: UpperLipUp_POS_GRP
+    100470: Whistle_CTRL
+    100472: Whistle_GRP
+    100474: Whistle_POS_GRP
+    400000: Bind_Head
+    400002: Bind_Hips
+    400004: Bind_Joint_GRP
+    400006: Bind_LeftArm
+    400008: Bind_LeftEye
+    400010: Bind_LeftFoot
+    400012: Bind_LeftForeArm
+    400014: Bind_LeftHand
+    400016: Bind_LeftHandIndex1
+    400018: Bind_LeftHandIndex2
+    400020: Bind_LeftHandIndex3
+    400022: Bind_LeftHandMiddle1
+    400024: Bind_LeftHandMiddle2
+    400026: Bind_LeftHandMiddle3
+    400028: Bind_LeftHandPinky1
+    400030: Bind_LeftHandPinky2
+    400032: Bind_LeftHandPinky3
+    400034: Bind_LeftHandRing1
+    400036: Bind_LeftHandRing2
+    400038: Bind_LeftHandRing3
+    400040: Bind_LeftHandThumb1
+    400042: Bind_LeftHandThumb2
+    400044: Bind_LeftHandThumb3
+    400046: Bind_LeftLeg
+    400048: Bind_LeftShoulder
+    400050: Bind_LeftToeBase
+    400052: Bind_LeftUpLeg
+    400054: Bind_Neck
+    400056: Bind_RightArm
+    400058: Bind_RightEye
+    400060: Bind_RightFoot
+    400062: Bind_RightForeArm
+    400064: Bind_RightHand
+    400066: Bind_RightHandIndex1
+    400068: Bind_RightHandIndex2
+    400070: Bind_RightHandIndex3
+    400072: Bind_RightHandMiddle1
+    400074: Bind_RightHandMiddle2
+    400076: Bind_RightHandMiddle3
+    400078: Bind_RightHandPinky1
+    400080: Bind_RightHandPinky2
+    400082: Bind_RightHandPinky3
+    400084: Bind_RightHandRing1
+    400086: Bind_RightHandRing2
+    400088: Bind_RightHandRing3
+    400090: Bind_RightHandThumb1
+    400092: Bind_RightHandThumb2
+    400094: Bind_RightHandThumb3
+    400096: Bind_RightLeg
+    400098: Bind_RightShoulder
+    400100: Bind_RightToeBase
+    400102: Bind_RightUpLeg
+    400104: Bind_Spine
+    400106: Bind_Spine1
+    400108: Bind_Spine2
+    400110: CheekPuff_CTRL
+    400112: CheekPuff_GRP
+    400114: CheekPuff_POS_GRP
+    400116: Facial_CTRLS_GRP
+    400118: Facial_CTRLs_Mover
+    400120: Facial_Hookup
+    400122: FacialControl_POS_GRP
+    400124: Frown_CTRL
+    400126: Frown_GRP
+    400128: Frown_POS_GRP
+    400130: //RootNode
+    400132: JawInOut_CTRL
+    400134: JawInOut_GRP
+    400136: JawInOut_POS_GRP
+    400138: JawPos_CTRL
+    400140: JawPos_GRP
+    400142: JawPos_POS_GRP
+    400144: JawRot_CTRL
+    400146: JawRot_GRP
+    400148: JawRot_POS_GRP
+    400150: Joint_GRP
+    400152: LeftBrow_CTRL
+    400154: LeftBrow_GRP
+    400156: LeftBrow_POS_GRP
+    400158: LeftBrowOuterLower_CTRL
+    400160: LeftBrowOuterLower_GRP
+    400162: LeftBrowOuterLower_POS_GRP
+    400164: LeftEyeBlink_CTRL
+    400166: LeftEyeBlink_GRP
+    400168: LeftEyeBlink_POS_GRP
+    400170: LowerLipDown_CTRL
+    400172: LowerLipDown_GRP
+    400174: LowerLipDown_POS_GRP
+    400176: LowerLipInOut_CTRL
+    400178: LowerLipInOut_GRP
+    400180: LowerLipInOut_POS_GRP
+    400182: Mesh_Blink_Left
+    400184: Mesh_Blink_Left1
+    400186: Mesh_Blink_Right
+    400188: Mesh_Blink_Right1
+    400190: Mesh_Body
+    400192: Mesh_Bottoms
+    400194: Mesh_BrowsDown_Left
+    400196: Mesh_BrowsDown_Left1
+    400198: Mesh_BrowsDown_Right
+    400200: Mesh_BrowsDown_Right1
+    400202: Mesh_BrowsIn_Left
+    400204: Mesh_BrowsIn_Left1
+    400206: Mesh_BrowsIn_Right
+    400208: Mesh_BrowsIn_Right1
+    400210: Mesh_BrowsOuterLower_Left
+    400212: Mesh_BrowsOuterLower_Left1
+    400214: Mesh_BrowsOuterLower_Right
+    400216: Mesh_BrowsOuterLower_Right1
+    400218: Mesh_BrowsUp_Left
+    400220: Mesh_BrowsUp_Left1
+    400222: Mesh_BrowsUp_Right
+    400224: Mesh_BrowsUp_Right1
+    400226: Mesh_CheekPuff_Left
+    400228: Mesh_CheekPuff_Left1
+    400230: Mesh_CheekPuff_Right
+    400232: Mesh_CheekPuff_Right1
+    400234: Mesh_default1
+    400236: Mesh_Eyelashes
+    400238: Mesh_EyesWide_Left
+    400240: Mesh_EyesWide_Left1
+    400242: Mesh_EyesWide_Right
+    400244: Mesh_EyesWide_Right1
+    400246: Mesh_Frown_Left
+    400248: Mesh_Frown_Left1
+    400250: Mesh_Frown_Right
+    400252: Mesh_Frown_Right1
+    400254: Mesh_GRP
+    400256: Mesh_Hair
+    400258: Mesh_Jaw_Down
+    400260: Mesh_Jaw_Down1
+    400262: Mesh_Jaw_Left
+    400264: Mesh_Jaw_Left1
+    400266: Mesh_Jaw_Right
+    400268: Mesh_Jaw_Right1
+    400270: Mesh_Jaw_Up
+    400272: Mesh_Jaw_Up1
+    400274: Mesh_JawBackward
+    400276: Mesh_JawBackward1
+    400278: Mesh_JawForeward
+    400280: Mesh_JawForeward1
+    400282: Mesh_JawRotateY_Left
+    400284: Mesh_JawRotateY_Left1
+    400286: Mesh_JawRotateY_Right
+    400288: Mesh_JawRotateY_Right1
+    400290: Mesh_JawRotateZ_Left
+    400292: Mesh_JawRotateZ_Left1
+    400294: Mesh_JawRotateZ_Right
+    400296: Mesh_JawRotateZ_Right1
+    400298: Mesh_LowerLipDown_Left
+    400300: Mesh_LowerLipDown_Left1
+    400302: Mesh_LowerLipDown_Right
+    400304: Mesh_LowerLipDown_Right1
+    400306: Mesh_LowerLipIn
+    400308: Mesh_LowerLipIn1
+    400310: Mesh_LowerLipOut
+    400312: Mesh_LowerLipOut1
+    400314: Mesh_Midmouth_Left
+    400316: Mesh_Midmouth_Left1
+    400318: Mesh_Midmouth_Right
+    400320: Mesh_Midmouth_Right1
+    400322: Mesh_MouthDown
+    400324: Mesh_MouthDown1
+    400326: Mesh_MouthNarrow_Left
+    400328: Mesh_MouthNarrow_Left1
+    400330: Mesh_MouthNarrow_Right
+    400332: Mesh_MouthNarrow_Right1
+    400334: Mesh_MouthOpen
+    400336: Mesh_MouthOpen1
+    400338: Mesh_MouthUp
+    400340: Mesh_MouthUp1
+    400342: Mesh_MouthWhistle_NarrowAdjust_Left
+    400344: Mesh_MouthWhistle_NarrowAdjust_Left1
+    400346: Mesh_MouthWhistle_NarrowAdjust_Right
+    400348: Mesh_MouthWhistle_NarrowAdjust_Right1
+    400350: Mesh_NoseScrunch_Left
+    400352: Mesh_NoseScrunch_Left1
+    400354: Mesh_NoseScrunch_Right
+    400356: Mesh_NoseScrunch_Right1
+    400358: Mesh_Shoes
+    400360: Mesh_Smile_Left
+    400362: Mesh_Smile_Left1
+    400364: Mesh_Smile_Right
+    400366: Mesh_Smile_Right1
+    400368: Mesh_Squint_Left
+    400370: Mesh_Squint_Left1
+    400372: Mesh_Squint_Right
+    400374: Mesh_Squint_Right1
+    400376: Mesh_TongueUp
+    400378: Mesh_TongueUp1
+    400380: Mesh_Tops
+    400382: Mesh_UpperLipIn
+    400384: Mesh_UpperLipIn1
+    400386: Mesh_UpperLipOut
+    400388: Mesh_UpperLipOut1
+    400390: Mesh_UpperLipUp_Left
+    400392: Mesh_UpperLipUp_Left1
+    400394: Mesh_UpperLipUp_Right
+    400396: Mesh_UpperLipUp_Right1
+    400398: MouthNarrow_CTRL
+    400400: MouthNarrow_GRP
+    400402: MouthNarrow_POS_GRP
+    400404: MouthPosition_CTRL
+    400406: MouthPosition_GRP
+    400408: MouthPosition_POS_GRP
+    400410: NoseScrunch_CTRL
+    400412: NoseScrunch_GRP
+    400414: NoseScrunch_POS_GRP
+    400416: RightBrow_CTRL
+    400418: RightBrow_GRP
+    400420: RightBrow_POS_GRP
+    400422: RightBrowOuterLower_CTRL
+    400424: RightBrowOuterLower_GRP
+    400426: RightBrowOuterLower_POS_GRP
+    400428: RightEyeBlink_CTRL
+    400430: RightEyeBlink_GRP
+    400432: RightEyeBlink_POS_GRP
+    400434: Smile_CTRL
+    400436: Smile_GRP
+    400438: Smile_POS_GRP
+    400440: Squint_CTRL
+    400442: Squint_GRP
+    400444: Squint_POS_GRP
+    400446: Sync_CTRL
+    400448: Sync_GRP
+    400450: Sync_POS_GRP
+    400452: Tongue_CTRL
+    400454: Tongue_GRP
+    400456: Tongue_POS_GRP
+    400458: UpperLipInOut_CTRL
+    400460: UpperLipInOut_GRP
+    400462: UpperLipInOut_POS_GRP
+    400464: UpperLipUp_CTRL
+    400466: UpperLipUp_GRP
+    400468: UpperLipUp_POS_GRP
+    400470: Whistle_CTRL
+    400472: Whistle_GRP
+    400474: Whistle_POS_GRP
+    2300000: Mesh_Blink_Left
+    2300002: Mesh_Blink_Left1
+    2300004: Mesh_Blink_Right
+    2300006: Mesh_Blink_Right1
+    2300008: Mesh_BrowsDown_Left
+    2300010: Mesh_BrowsDown_Left1
+    2300012: Mesh_BrowsDown_Right
+    2300014: Mesh_BrowsDown_Right1
+    2300016: Mesh_BrowsIn_Left
+    2300018: Mesh_BrowsIn_Left1
+    2300020: Mesh_BrowsIn_Right
+    2300022: Mesh_BrowsIn_Right1
+    2300024: Mesh_BrowsOuterLower_Left
+    2300026: Mesh_BrowsOuterLower_Left1
+    2300028: Mesh_BrowsOuterLower_Right
+    2300030: Mesh_BrowsOuterLower_Right1
+    2300032: Mesh_BrowsUp_Left
+    2300034: Mesh_BrowsUp_Left1
+    2300036: Mesh_BrowsUp_Right
+    2300038: Mesh_BrowsUp_Right1
+    2300040: Mesh_CheekPuff_Left
+    2300042: Mesh_CheekPuff_Left1
+    2300044: Mesh_CheekPuff_Right
+    2300046: Mesh_CheekPuff_Right1
+    2300048: Mesh_EyesWide_Left
+    2300050: Mesh_EyesWide_Left1
+    2300052: Mesh_EyesWide_Right
+    2300054: Mesh_EyesWide_Right1
+    2300056: Mesh_Frown_Left
+    2300058: Mesh_Frown_Left1
+    2300060: Mesh_Frown_Right
+    2300062: Mesh_Frown_Right1
+    2300064: Mesh_Jaw_Down
+    2300066: Mesh_Jaw_Down1
+    2300068: Mesh_Jaw_Left
+    2300070: Mesh_Jaw_Left1
+    2300072: Mesh_Jaw_Right
+    2300074: Mesh_Jaw_Right1
+    2300076: Mesh_Jaw_Up
+    2300078: Mesh_Jaw_Up1
+    2300080: Mesh_JawBackward
+    2300082: Mesh_JawBackward1
+    2300084: Mesh_JawForeward
+    2300086: Mesh_JawForeward1
+    2300088: Mesh_JawRotateY_Left
+    2300090: Mesh_JawRotateY_Left1
+    2300092: Mesh_JawRotateY_Right
+    2300094: Mesh_JawRotateY_Right1
+    2300096: Mesh_JawRotateZ_Left
+    2300098: Mesh_JawRotateZ_Left1
+    2300100: Mesh_JawRotateZ_Right
+    2300102: Mesh_JawRotateZ_Right1
+    2300104: Mesh_LowerLipDown_Left
+    2300106: Mesh_LowerLipDown_Left1
+    2300108: Mesh_LowerLipDown_Right
+    2300110: Mesh_LowerLipDown_Right1
+    2300112: Mesh_LowerLipIn
+    2300114: Mesh_LowerLipIn1
+    2300116: Mesh_LowerLipOut
+    2300118: Mesh_LowerLipOut1
+    2300120: Mesh_Midmouth_Left
+    2300122: Mesh_Midmouth_Left1
+    2300124: Mesh_Midmouth_Right
+    2300126: Mesh_Midmouth_Right1
+    2300128: Mesh_MouthDown
+    2300130: Mesh_MouthDown1
+    2300132: Mesh_MouthNarrow_Left
+    2300134: Mesh_MouthNarrow_Left1
+    2300136: Mesh_MouthNarrow_Right
+    2300138: Mesh_MouthNarrow_Right1
+    2300140: Mesh_MouthOpen
+    2300142: Mesh_MouthOpen1
+    2300144: Mesh_MouthUp
+    2300146: Mesh_MouthUp1
+    2300148: Mesh_MouthWhistle_NarrowAdjust_Left
+    2300150: Mesh_MouthWhistle_NarrowAdjust_Left1
+    2300152: Mesh_MouthWhistle_NarrowAdjust_Right
+    2300154: Mesh_MouthWhistle_NarrowAdjust_Right1
+    2300156: Mesh_NoseScrunch_Left
+    2300158: Mesh_NoseScrunch_Left1
+    2300160: Mesh_NoseScrunch_Right
+    2300162: Mesh_NoseScrunch_Right1
+    2300164: Mesh_Smile_Left
+    2300166: Mesh_Smile_Left1
+    2300168: Mesh_Smile_Right
+    2300170: Mesh_Smile_Right1
+    2300172: Mesh_Squint_Left
+    2300174: Mesh_Squint_Left1
+    2300176: Mesh_Squint_Right
+    2300178: Mesh_Squint_Right1
+    2300180: Mesh_TongueUp
+    2300182: Mesh_TongueUp1
+    2300184: Mesh_UpperLipIn
+    2300186: Mesh_UpperLipIn1
+    2300188: Mesh_UpperLipOut
+    2300190: Mesh_UpperLipOut1
+    2300192: Mesh_UpperLipUp_Left
+    2300194: Mesh_UpperLipUp_Left1
+    2300196: Mesh_UpperLipUp_Right
+    2300198: Mesh_UpperLipUp_Right1
+    3300000: Mesh_Blink_Left
+    3300002: Mesh_Blink_Left1
+    3300004: Mesh_Blink_Right
+    3300006: Mesh_Blink_Right1
+    3300008: Mesh_BrowsDown_Left
+    3300010: Mesh_BrowsDown_Left1
+    3300012: Mesh_BrowsDown_Right
+    3300014: Mesh_BrowsDown_Right1
+    3300016: Mesh_BrowsIn_Left
+    3300018: Mesh_BrowsIn_Left1
+    3300020: Mesh_BrowsIn_Right
+    3300022: Mesh_BrowsIn_Right1
+    3300024: Mesh_BrowsOuterLower_Left
+    3300026: Mesh_BrowsOuterLower_Left1
+    3300028: Mesh_BrowsOuterLower_Right
+    3300030: Mesh_BrowsOuterLower_Right1
+    3300032: Mesh_BrowsUp_Left
+    3300034: Mesh_BrowsUp_Left1
+    3300036: Mesh_BrowsUp_Right
+    3300038: Mesh_BrowsUp_Right1
+    3300040: Mesh_CheekPuff_Left
+    3300042: Mesh_CheekPuff_Left1
+    3300044: Mesh_CheekPuff_Right
+    3300046: Mesh_CheekPuff_Right1
+    3300048: Mesh_EyesWide_Left
+    3300050: Mesh_EyesWide_Left1
+    3300052: Mesh_EyesWide_Right
+    3300054: Mesh_EyesWide_Right1
+    3300056: Mesh_Frown_Left
+    3300058: Mesh_Frown_Left1
+    3300060: Mesh_Frown_Right
+    3300062: Mesh_Frown_Right1
+    3300064: Mesh_Jaw_Down
+    3300066: Mesh_Jaw_Down1
+    3300068: Mesh_Jaw_Left
+    3300070: Mesh_Jaw_Left1
+    3300072: Mesh_Jaw_Right
+    3300074: Mesh_Jaw_Right1
+    3300076: Mesh_Jaw_Up
+    3300078: Mesh_Jaw_Up1
+    3300080: Mesh_JawBackward
+    3300082: Mesh_JawBackward1
+    3300084: Mesh_JawForeward
+    3300086: Mesh_JawForeward1
+    3300088: Mesh_JawRotateY_Left
+    3300090: Mesh_JawRotateY_Left1
+    3300092: Mesh_JawRotateY_Right
+    3300094: Mesh_JawRotateY_Right1
+    3300096: Mesh_JawRotateZ_Left
+    3300098: Mesh_JawRotateZ_Left1
+    3300100: Mesh_JawRotateZ_Right
+    3300102: Mesh_JawRotateZ_Right1
+    3300104: Mesh_LowerLipDown_Left
+    3300106: Mesh_LowerLipDown_Left1
+    3300108: Mesh_LowerLipDown_Right
+    3300110: Mesh_LowerLipDown_Right1
+    3300112: Mesh_LowerLipIn
+    3300114: Mesh_LowerLipIn1
+    3300116: Mesh_LowerLipOut
+    3300118: Mesh_LowerLipOut1
+    3300120: Mesh_Midmouth_Left
+    3300122: Mesh_Midmouth_Left1
+    3300124: Mesh_Midmouth_Right
+    3300126: Mesh_Midmouth_Right1
+    3300128: Mesh_MouthDown
+    3300130: Mesh_MouthDown1
+    3300132: Mesh_MouthNarrow_Left
+    3300134: Mesh_MouthNarrow_Left1
+    3300136: Mesh_MouthNarrow_Right
+    3300138: Mesh_MouthNarrow_Right1
+    3300140: Mesh_MouthOpen
+    3300142: Mesh_MouthOpen1
+    3300144: Mesh_MouthUp
+    3300146: Mesh_MouthUp1
+    3300148: Mesh_MouthWhistle_NarrowAdjust_Left
+    3300150: Mesh_MouthWhistle_NarrowAdjust_Left1
+    3300152: Mesh_MouthWhistle_NarrowAdjust_Right
+    3300154: Mesh_MouthWhistle_NarrowAdjust_Right1
+    3300156: Mesh_NoseScrunch_Left
+    3300158: Mesh_NoseScrunch_Left1
+    3300160: Mesh_NoseScrunch_Right
+    3300162: Mesh_NoseScrunch_Right1
+    3300164: Mesh_Smile_Left
+    3300166: Mesh_Smile_Left1
+    3300168: Mesh_Smile_Right
+    3300170: Mesh_Smile_Right1
+    3300172: Mesh_Squint_Left
+    3300174: Mesh_Squint_Left1
+    3300176: Mesh_Squint_Right
+    3300178: Mesh_Squint_Right1
+    3300180: Mesh_TongueUp
+    3300182: Mesh_TongueUp1
+    3300184: Mesh_UpperLipIn
+    3300186: Mesh_UpperLipIn1
+    3300188: Mesh_UpperLipOut
+    3300190: Mesh_UpperLipOut1
+    3300192: Mesh_UpperLipUp_Left
+    3300194: Mesh_UpperLipUp_Left1
+    3300196: Mesh_UpperLipUp_Right
+    3300198: Mesh_UpperLipUp_Right1
+    4300000: Mesh_Blink_Left1
+    4300002: Mesh_Blink_Left
+    4300004: Mesh_Blink_Right1
+    4300006: Mesh_Blink_Right
+    4300008: Mesh_Body
+    4300010: Mesh_Bottoms
+    4300012: Mesh_BrowsDown_Left1
+    4300014: Mesh_BrowsDown_Left
+    4300016: Mesh_BrowsDown_Right1
+    4300018: Mesh_BrowsDown_Right
+    4300020: Mesh_BrowsIn_Left1
+    4300022: Mesh_BrowsIn_Left
+    4300024: Mesh_BrowsIn_Right1
+    4300026: Mesh_BrowsIn_Right
+    4300028: Mesh_BrowsOuterLower_Left1
+    4300030: Mesh_BrowsOuterLower_Left
+    4300032: Mesh_BrowsOuterLower_Right1
+    4300034: Mesh_BrowsOuterLower_Right
+    4300036: Mesh_BrowsUp_Left1
+    4300038: Mesh_BrowsUp_Left
+    4300040: Mesh_BrowsUp_Right1
+    4300042: Mesh_BrowsUp_Right
+    4300044: Mesh_CheekPuff_Left1
+    4300046: Mesh_CheekPuff_Left
+    4300048: Mesh_CheekPuff_Right1
+    4300050: Mesh_CheekPuff_Right
+    4300052: Mesh_Eyelashes
+    4300054: Mesh_EyesWide_Left1
+    4300056: Mesh_EyesWide_Left
+    4300058: Mesh_EyesWide_Right1
+    4300060: Mesh_EyesWide_Right
+    4300062: Mesh_Frown_Left1
+    4300064: Mesh_Frown_Left
+    4300066: Mesh_Frown_Right1
+    4300068: Mesh_Frown_Right
+    4300070: Mesh_Hair
+    4300072: Mesh_JawBackward1
+    4300074: Mesh_JawBackward
+    4300076: Mesh_JawForeward1
+    4300078: Mesh_JawForeward
+    4300080: Mesh_JawRotateY_Left1
+    4300082: Mesh_JawRotateY_Left
+    4300084: Mesh_JawRotateY_Right1
+    4300086: Mesh_JawRotateY_Right
+    4300088: Mesh_JawRotateZ_Left1
+    4300090: Mesh_JawRotateZ_Left
+    4300092: Mesh_JawRotateZ_Right1
+    4300094: Mesh_JawRotateZ_Right
+    4300096: Mesh_Jaw_Down1
+    4300098: Mesh_Jaw_Down
+    4300100: Mesh_Jaw_Left1
+    4300102: Mesh_Jaw_Left
+    4300104: Mesh_Jaw_Right1
+    4300106: Mesh_Jaw_Right
+    4300108: Mesh_Jaw_Up1
+    4300110: Mesh_Jaw_Up
+    4300112: Mesh_LowerLipDown_Left1
+    4300114: Mesh_LowerLipDown_Left
+    4300116: Mesh_LowerLipDown_Right1
+    4300118: Mesh_LowerLipDown_Right
+    4300120: Mesh_LowerLipIn1
+    4300122: Mesh_LowerLipIn
+    4300124: Mesh_LowerLipOut1
+    4300126: Mesh_LowerLipOut
+    4300128: Mesh_Midmouth_Left1
+    4300130: Mesh_Midmouth_Left
+    4300132: Mesh_Midmouth_Right1
+    4300134: Mesh_Midmouth_Right
+    4300136: Mesh_MouthDown1
+    4300138: Mesh_MouthDown
+    4300140: Mesh_MouthNarrow_Left1
+    4300142: Mesh_MouthNarrow_Left
+    4300144: Mesh_MouthNarrow_Right1
+    4300146: Mesh_MouthNarrow_Right
+    4300148: Mesh_MouthOpen1
+    4300150: Mesh_MouthOpen
+    4300152: Mesh_MouthUp1
+    4300154: Mesh_MouthUp
+    4300156: Mesh_MouthWhistle_NarrowAdjust_Left1
+    4300158: Mesh_MouthWhistle_NarrowAdjust_Left
+    4300160: Mesh_MouthWhistle_NarrowAdjust_Right1
+    4300162: Mesh_MouthWhistle_NarrowAdjust_Right
+    4300164: Mesh_NoseScrunch_Left1
+    4300166: Mesh_NoseScrunch_Left
+    4300168: Mesh_NoseScrunch_Right1
+    4300170: Mesh_NoseScrunch_Right
+    4300172: Mesh_Shoes
+    4300174: Mesh_Smile_Left1
+    4300176: Mesh_Smile_Left
+    4300178: Mesh_Smile_Right1
+    4300180: Mesh_Smile_Right
+    4300182: Mesh_Squint_Left1
+    4300184: Mesh_Squint_Left
+    4300186: Mesh_Squint_Right1
+    4300188: Mesh_Squint_Right
+    4300190: Mesh_TongueUp1
+    4300192: Mesh_TongueUp
+    4300194: Mesh_Tops
+    4300196: Mesh_UpperLipIn1
+    4300198: Mesh_UpperLipIn
+    4300200: Mesh_UpperLipOut1
+    4300202: Mesh_UpperLipOut
+    4300204: Mesh_UpperLipUp_Left1
+    4300206: Mesh_UpperLipUp_Left
+    4300208: Mesh_UpperLipUp_Right1
+    4300210: Mesh_UpperLipUp_Right
+    4300212: Mesh_default1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Mesh_Body
+    13700002: Mesh_Bottoms
+    13700004: Mesh_default1
+    13700006: Mesh_Eyelashes
+    13700008: Mesh_Hair
+    13700010: Mesh_Shoes
+    13700012: Mesh_Tops
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bodymat
+    second: {fileID: 2100000, guid: badf56bc90fe76144be35b7533ad3cfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottommat
+    second: {fileID: 2100000, guid: 38c25a733520ffa4fbdb7aad69f1ff32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyelashes1
+    second: {fileID: 2100000, guid: badf56bc90fe76144be35b7533ad3cfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hairmat
+    second: {fileID: 2100000, guid: 47ac2bd794611644e8db3c3197123b14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoesmat
+    second: {fileID: 2100000, guid: 7b3865522d9b8b74c86e27062458f878, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Topmat
+    second: {fileID: 2100000, guid: eb11687e5656cda4e95d63a7ba97b1d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 00cda271591f74be4a354495ea27e061, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Bind_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_LeftEye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_RightEye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bind_Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: idle(Clone)
+      parentName: 
+      position: {x: -0.0013396072, y: 0.001012451, z: 0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Facial_CTRLS_GRP
+      parentName: idle(Clone)
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Facial_Hookup
+      parentName: Facial_CTRLS_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FacialControl_POS_GRP
+      parentName: Facial_CTRLS_GRP
+      position: {x: -0.21163999, y: 1.87, z: 0.105}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Facial_CTRLs_Mover
+      parentName: FacialControl_POS_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CheekPuff_POS_GRP
+      parentName: Facial_CTRLs_Mover
+      position: {x: -0.049999997, y: -0.13, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.85, y: 0.85, z: 0.85}
+    - name: CheekPuff_GRP
+      parentName: CheekPuff_POS_GRP
+      position: {x: 0.01, y: -0.01, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2, y: 2, z: 2}
+    - name: CheekPuff_CTRL
+      parentName: CheekPuff_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Frown_POS_GRP
+      parentName: Facial_CTRLs_Mover
+      position: {x: -0.049999997, y: -0.22999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Frown_GRP
+      parentName: Frown_POS_GRP
+      position: {x: -0.01, y: 0.01, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2, y: 2, z: 2}
+    - name: Frown_CTRL
+      parentName: Frown_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JawInOut_POS_GRP
+      parentName: Facial_CTRLs_Mover
+      position: {x: -0.02, y: -0.28, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JawInOut_GRP
+      parentName: JawInOut_POS_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JawInOut_CTRL
+      parentName: JawInOut_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JawPos_POS_GRP
+      parentName: Facial_CTRLs_Mover
+      position: {x: 0.03, y: -0.28, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JawPos_GRP
+      parentName: JawPos_POS_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JawPos_CTRL
+      parentName: JawPos_GRP
+      position: {x: -0, y: 0.0000199676, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JawRot_POS_GRP
+      parentName: Facial_CTRLs_Mover
+      position: {x: -0, y: -0.28, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JawRot_GRP
+      parentName: JawRot_POS_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JawRot_CTRL
+      parentName: JawRot_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftBrow_POS_GRP
+      parentName: Facial_CTRLs_Mover
+      position: {x: -0.02, y: -0.04, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftBrow_GRP
+      parentName: LeftBrow_POS_GRP
+      position: {x: -0.005, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftBrow_CTRL
+      parentName: LeftBrow_GRP
+      position: {x: -0, y: 0.0000414231, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftBrowOuterLower_POS_GRP
+      parentName: Facial_CTRLs_Mover
+      position: {x: -0.04, y: -0.04, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftBrowOuterLower_GRP
+      parentName: LeftBrowOuterLower_POS_GRP
+      position: {x: -0, y: -0.01, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2, y: 2, z: 2}
+    - name: LeftBrowOuterLower_CTRL
+      parentName: LeftBrowOuterLower_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftEyeBlink_POS_GRP
+      parentName: Facial_CTRLs_Mover
+      position: {x: -0.01, y: -0.08, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftEyeBlink_GRP
+      parentName: LeftEyeBlink_POS_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftEyeBlink_CTRL
+      parentName: LeftEyeBlink_GRP
+      position: {x: -0, y: -0.0000200398, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LowerLipDown_POS_GRP
+      parentName: Facial_CTRLs_Mover
+      position: {x: 0.01, y: -0.22999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LowerLipDown_GRP
+      parentName: LowerLipDown_POS_GRP
+      position: {x: -0.01, y: 0.01, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2, y: 2, z: 2}
+    - name: LowerLipDown_CTRL
+      parentName: LowerLipDown_GRP
+      position: {x: 0.000411445, y: -0.000259094, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LowerLipInOut_POS_GRP
+      parentName: Facial_CTRLs_Mover
+      position: {x: -0.01, y: -0.22999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LowerLipInOut_GRP
+      parentName: LowerLipInOut_POS_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LowerLipInOut_CTRL
+      parentName: LowerLipInOut_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MouthNarrow_POS_GRP
+      parentName: Facial_CTRLs_Mover
+      position: {x: 0.049999997, y: -0.17999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MouthNarrow_GRP
+      parentName: MouthNarrow_POS_GRP
+      position: {x: 0.01, y: -0.01, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2, y: 2, z: 2}
+    - name: MouthNarrow_CTRL
+      parentName: MouthNarrow_GRP
+      position: {x: -0.00070813403, y: 0.00061143097, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MouthPosition_POS_GRP
+      parentName: Facial_CTRLs_Mover
+      position: {x: -0.089999996, y: -0.17999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.6, y: 0.6, z: 0.6}
+    - name: MouthPosition_GRP
+      parentName: MouthPosition_POS_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MouthPosition_CTRL
+      parentName: MouthPosition_GRP
+      position: {x: -0, y: -0.00109182, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NoseScrunch_POS_GRP
+      parentName: Facial_CTRLs_Mover
+      position: {x: 0.049999997, y: -0.13, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.85, y: 0.85, z: 0.85}
+    - name: NoseScrunch_GRP
+      parentName: NoseScrunch_POS_GRP
+      position: {x: 0.01, y: -0.01, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2, y: 2, z: 2}
+    - name: NoseScrunch_CTRL
+      parentName: NoseScrunch_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightBrow_POS_GRP
+      parentName: Facial_CTRLs_Mover
+      position: {x: 0.02, y: -0.04, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightBrow_GRP
+      parentName: RightBrow_POS_GRP
+      position: {x: 0.005, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightBrow_CTRL
+      parentName: RightBrow_GRP
+      position: {x: -0, y: 0.0000414231, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightBrowOuterLower_POS_GRP
+      parentName: Facial_CTRLs_Mover
+      position: {x: 0.04, y: -0.04, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightBrowOuterLower_GRP
+      parentName: RightBrowOuterLower_POS_GRP
+      position: {x: -0, y: -0.01, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2, y: 2, z: 2}
+    - name: RightBrowOuterLower_CTRL
+      parentName: RightBrowOuterLower_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightEyeBlink_POS_GRP
+      parentName: Facial_CTRLs_Mover
+      position: {x: 0.01, y: -0.08, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightEyeBlink_GRP
+      parentName: RightEyeBlink_POS_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightEyeBlink_CTRL
+      parentName: RightEyeBlink_GRP
+      position: {x: -0, y: -0.0000200398, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Smile_POS_GRP
+      parentName: Facial_CTRLs_Mover
+      position: {x: -0.049999997, y: -0.17999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Smile_GRP
+      parentName: Smile_POS_GRP
+      position: {x: 0.01, y: -0.01, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2, y: 2, z: 2}
+    - name: Smile_CTRL
+      parentName: Smile_GRP
+      position: {x: -0.01, y: 0.01, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Squint_POS_GRP
+      parentName: Facial_CTRLs_Mover
+      position: {x: -0.04, y: -0.08, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.85, y: 0.85, z: 0.85}
+    - name: Squint_GRP
+      parentName: Squint_POS_GRP
+      position: {x: 0.01, y: -0.01, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2, y: 2, z: 2}
+    - name: Squint_CTRL
+      parentName: Squint_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Sync_POS_GRP
+      parentName: Facial_CTRLs_Mover
+      position: {x: -0, y: -0.17999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.2, y: 1.2, z: 1.2}
+    - name: Sync_GRP
+      parentName: Sync_POS_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Sync_CTRL
+      parentName: Sync_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tongue_POS_GRP
+      parentName: Facial_CTRLs_Mover
+      position: {x: -0.089999996, y: -0.22999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.6, y: 0.6, z: 0.6}
+    - name: Tongue_GRP
+      parentName: Tongue_POS_GRP
+      position: {x: -0, y: -0.01, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2, y: 2, z: 2}
+    - name: Tongue_CTRL
+      parentName: Tongue_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UpperLipInOut_POS_GRP
+      parentName: Facial_CTRLs_Mover
+      position: {x: -0.01, y: -0.13, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UpperLipInOut_GRP
+      parentName: UpperLipInOut_POS_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UpperLipInOut_CTRL
+      parentName: UpperLipInOut_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UpperLipUp_POS_GRP
+      parentName: Facial_CTRLs_Mover
+      position: {x: 0.01, y: -0.13, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: UpperLipUp_GRP
+      parentName: UpperLipUp_POS_GRP
+      position: {x: 0.01, y: -0.01, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2, y: 2, z: 2}
+    - name: UpperLipUp_CTRL
+      parentName: UpperLipUp_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Whistle_POS_GRP
+      parentName: Facial_CTRLs_Mover
+      position: {x: 0.049999997, y: -0.22999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Whistle_GRP
+      parentName: Whistle_POS_GRP
+      position: {x: 0.01, y: -0.01, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2, y: 2, z: 2}
+    - name: Whistle_CTRL
+      parentName: Whistle_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Joint_GRP
+      parentName: idle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_Joint_GRP
+      parentName: Joint_GRP
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_Hips
+      parentName: Bind_Joint_GRP
+      position: {x: 0.0011356714, y: 1.0323478, z: -0.02696437}
+      rotation: {x: 0.00052285846, y: -0.0002490643, z: 0.007758878, w: 0.9999697}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_Spine
+      parentName: Bind_Hips
+      position: {x: 0.0012754359, y: 0.10316983, z: 0.0022617204}
+      rotation: {x: -0.008273175, y: 0.0003526525, z: -0.013772939, w: 0.9998709}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_Spine1
+      parentName: Bind_Spine
+      position: {x: -0, y: 0.10660488, z: 0}
+      rotation: {x: -0.007475399, y: -0.000020286652, z: 0.0027137029, w: 0.9999684}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_Spine2
+      parentName: Bind_Spine1
+      position: {x: -1.110223e-18, y: 0.09985767, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_Neck
+      parentName: Bind_Spine2
+      position: {x: -0.0015123526, y: 0.18271135, z: -0.01632522}
+      rotation: {x: 0.015224228, y: -0.00009233888, z: 0.0033022538, w: 0.99987864}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_Head
+      parentName: Bind_Neck
+      position: {x: -0.0011618818, y: 0.09473839, z: 0.008541632}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_LeftEye
+      parentName: Bind_Head
+      position: {x: -0.027806945, y: 0.05847094, z: 0.09570371}
+      rotation: {x: 0.04058865, y: 0.011903909, z: -0.00048359644, w: 0.999105}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_RightEye
+      parentName: Bind_Head
+      position: {x: 0.030410549, y: 0.058364786, z: 0.09348761}
+      rotation: {x: 0.04058865, y: 0.011903909, z: -0.00048359644, w: 0.999105}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_LeftShoulder
+      parentName: Bind_Spine2
+      position: {x: -0.04621201, y: 0.12330464, z: -0.018051218}
+      rotation: {x: 0.44057316, y: -0.5128825, z: 0.5633887, w: 0.4748053}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_LeftArm
+      parentName: Bind_LeftShoulder
+      position: {x: -0, y: 0.10144943, z: 0}
+      rotation: {x: -0.0014080061, y: 0.00017740933, z: -0.08029805, w: 0.9967699}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_LeftForeArm
+      parentName: Bind_LeftArm
+      position: {x: 3.5527136e-17, y: 0.24939935, z: 0}
+      rotation: {x: 0.000002760252, y: -0.0000725103, z: -0.008726312, w: 0.9999619}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_LeftHand
+      parentName: Bind_LeftForeArm
+      position: {x: 1.7763568e-17, y: 0.2620377, z: -2.842171e-16}
+      rotation: {x: 0.012387476, y: -0.059560336, z: 0.046356928, w: 0.9970708}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_LeftHandThumb1
+      parentName: Bind_LeftHand
+      position: {x: 0.027412528, y: 0.023203453, z: 0.015238699}
+      rotation: {x: 0.062253375, y: 0.0092400815, z: -0.38459298, w: 0.92093825}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_LeftHandThumb2
+      parentName: Bind_LeftHandThumb1
+      position: {x: 0.00047417948, y: 0.04177087, z: -2.842171e-16}
+      rotation: {x: -0.00018559983, y: 0.0033545587, z: -0.06647889, w: 0.9977822}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_LeftHandThumb3
+      parentName: Bind_LeftHandThumb2
+      position: {x: -0.0037532113, y: 0.030683378, z: 5.684342e-16}
+      rotation: {x: -0.0000003834199, y: -0.000023284316, z: 0.12006375, w: 0.9927662}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_LeftHandPinky1
+      parentName: Bind_LeftHand
+      position: {x: -0.027767096, y: 0.07367265, z: 0.003332747}
+      rotation: {x: -0.015238092, y: -0.0028800012, z: -0.051838998, w: 0.99853504}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_LeftHandPinky2
+      parentName: Bind_LeftHandPinky1
+      position: {x: -0.00037016446, y: 0.02911412, z: 2.842171e-16}
+      rotation: {x: 0.000000067737254, y: 0.00008913177, z: 0.017678436, w: 0.9998438}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_LeftHandPinky3
+      parentName: Bind_LeftHandPinky2
+      position: {x: 0.00040291695, y: 0.017788649, z: -2.842171e-16}
+      rotation: {x: 0.0000023137732, y: 0.00020609841, z: -0.012311176, w: 0.9999242}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_LeftHandIndex1
+      parentName: Bind_LeftHand
+      position: {x: 0.028998328, y: 0.085948035, z: 0.0033086115}
+      rotation: {x: -0.015253573, y: -0.0017826726, z: -0.02894267, w: 0.9994631}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_LeftHandIndex2
+      parentName: Bind_LeftHandIndex1
+      position: {x: 0.0011438665, y: 0.034494594, z: 0}
+      rotation: {x: -0.000000061944455, y: -0.0000028019085, z: -0.0055141486, w: 0.9999848}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_LeftHandIndex3
+      parentName: Bind_LeftHandIndex2
+      position: {x: 0.00054376415, y: 0.024584567, z: 0}
+      rotation: {x: 0.000036644786, y: -0.0013886027, z: -0.048568383, w: 0.99881893}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_LeftHandRing1
+      parentName: Bind_LeftHand
+      position: {x: -0.009255484, y: 0.08309357, z: -0.0019437103}
+      rotation: {x: -0.015128958, y: -0.0008487395, z: -0.07501744, w: 0.9970671}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_LeftHandRing2
+      parentName: Bind_LeftHandRing1
+      position: {x: -0.0017512619, y: 0.029597322, z: 0}
+      rotation: {x: -0.0000022025924, y: 0.00015266139, z: 0.0448601, w: 0.9989933}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_LeftHandRing3
+      parentName: Bind_LeftHandRing2
+      position: {x: 0.00082069315, y: 0.026770746, z: 0}
+      rotation: {x: 0.000014733518, y: 0.00040744763, z: 0.0053738975, w: 0.9999855}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_LeftHandMiddle1
+      parentName: Bind_LeftHand
+      position: {x: 0.00802425, y: 0.087802395, z: -0.002666417}
+      rotation: {x: -0.015149672, y: -0.0005950181, z: -0.05119209, w: 0.9985738}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_LeftHandMiddle2
+      parentName: Bind_LeftHandMiddle1
+      position: {x: -0.00037732712, y: 0.03323698, z: -2.842171e-16}
+      rotation: {x: 0.000015017637, y: -0.0008773323, z: -0.0057175714, w: 0.9999833}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_LeftHandMiddle3
+      parentName: Bind_LeftHandMiddle2
+      position: {x: -0.00065879186, y: 0.02892748, z: 2.842171e-16}
+      rotation: {x: -0.000000061180835, y: -0.000041216666, z: 0.030865232, w: 0.9995236}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_RightShoulder
+      parentName: Bind_Spine2
+      position: {x: 0.044965457, y: 0.12309164, z: -0.01741749}
+      rotation: {x: -0.43071616, y: -0.5291798, z: 0.5614113, w: -0.46826234}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_RightArm
+      parentName: Bind_RightShoulder
+      position: {x: -0, y: 0.10121622, z: 0}
+      rotation: {x: 0.0027297672, y: -0.00014995152, z: 0.096026205, w: 0.99537504}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_RightForeArm
+      parentName: Bind_RightArm
+      position: {x: -3.5527136e-17, y: 0.24585383, z: 0}
+      rotation: {x: -0.00003435135, y: -0.001109574, z: 0.008723163, w: 0.9999614}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_RightHand
+      parentName: Bind_RightForeArm
+      position: {x: 3.5527136e-17, y: 0.25783917, z: 0}
+      rotation: {x: 0.009969696, y: 0.052667476, z: -0.047892854, w: 0.99741316}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_RightHandPinky1
+      parentName: Bind_RightHand
+      position: {x: 0.028877337, y: 0.070407525, z: 0.003260106}
+      rotation: {x: -0.012642515, y: 0.0034370283, z: 0.047689892, w: 0.99877626}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_RightHandPinky2
+      parentName: Bind_RightHandPinky1
+      position: {x: 0.000025964377, y: 0.030043032, z: 0}
+      rotation: {x: 0.0000060916414, y: -0.0004965012, z: -0.012743266, w: 0.9999187}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_RightHandPinky3
+      parentName: Bind_RightHandPinky2
+      position: {x: -0.00043156245, y: 0.017542472, z: 0}
+      rotation: {x: 0.00000028831312, y: 0.000010762442, z: 0.02430728, w: 0.99970454}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_RightHandThumb1
+      parentName: Bind_RightHand
+      position: {x: -0.027030556, y: 0.024270505, z: 0.015004184}
+      rotation: {x: 0.07096369, y: -0.021101521, z: 0.36109638, w: 0.92958504}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_RightHandThumb2
+      parentName: Bind_RightHandThumb1
+      position: {x: -0.0027473827, y: 0.043189388, z: 0}
+      rotation: {x: -0.000003662129, y: -0.00030338817, z: 0.07389268, w: 0.9972662}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_RightHandThumb3
+      parentName: Bind_RightHandThumb2
+      position: {x: 0.002654872, y: 0.031381655, z: 2.842171e-16}
+      rotation: {x: -0.000060993243, y: -0.001384895, z: -0.040455498, w: 0.9991804}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_RightHandIndex1
+      parentName: Bind_RightHand
+      position: {x: -0.029924085, y: 0.08684005, z: 0.0031051151}
+      rotation: {x: -0.012500013, y: 0.0002659381, z: 0.040539254, w: 0.99909973}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_RightHandIndex2
+      parentName: Bind_RightHandIndex1
+      position: {x: -0.00045872616, y: 0.03392705, z: -2.842171e-16}
+      rotation: {x: 0.000013173119, y: -0.000571521, z: -0.009800223, w: 0.99995184}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_RightHandIndex3
+      parentName: Bind_RightHandIndex2
+      position: {x: -0.00080464367, y: 0.024289744, z: 2.842171e-16}
+      rotation: {x: -0.00000087868955, y: -0.000095598996, z: 0.043370042, w: 0.9990591}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_RightHandRing1
+      parentName: Bind_RightHand
+      position: {x: 0.009391852, y: 0.08146239, z: -0.0020870264}
+      rotation: {x: -0.012517233, y: 0.0018910241, z: 0.070052646, w: 0.997463}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_RightHandRing2
+      parentName: Bind_RightHandRing1
+      position: {x: 0.0013174373, y: 0.028843794, z: 0}
+      rotation: {x: 0.000027773545, y: 0.0012616717, z: -0.023426298, w: 0.9997248}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_RightHandRing3
+      parentName: Bind_RightHandRing2
+      position: {x: -0.000033683624, y: 0.027660074, z: -2.842171e-16}
+      rotation: {x: -0.000004688052, y: 0.00017300357, z: -0.026044939, w: 0.9996608}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_RightHandMiddle1
+      parentName: Bind_RightHand
+      position: {x: -0.008345103, y: 0.08789465, z: -0.0022021136}
+      rotation: {x: -0.012484482, y: 0.0003108311, z: 0.061124794, w: 0.998052}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_RightHandMiddle2
+      parentName: Bind_RightHandMiddle1
+      position: {x: 0.0009851806, y: 0.035556767, z: -2.842171e-16}
+      rotation: {x: 0.000024128569, y: 0.00088731555, z: -0.0003894226, w: 0.9999995}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_RightHandMiddle3
+      parentName: Bind_RightHandMiddle2
+      position: {x: 0.00076719496, y: 0.028488934, z: -2.842171e-16}
+      rotation: {x: -0.00003792756, y: 0.0019989891, z: -0.046020083, w: 0.9989385}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_LeftUpLeg
+      parentName: Bind_Hips
+      position: {x: -0.08081719, y: -0.065723635, z: -0.009885243}
+      rotation: {x: -0.029140143, y: 0.002971922, z: 0.9995352, w: 0.008447677}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_LeftLeg
+      parentName: Bind_LeftUpLeg
+      position: {x: -1.7763568e-17, y: 0.41259396, z: -4.440892e-18}
+      rotation: {x: -0.039288633, y: -0.030447247, z: 0.00013125029, w: 0.9987639}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_LeftFoot
+      parentName: Bind_LeftLeg
+      position: {x: 1.7763568e-17, y: 0.45749855, z: 0}
+      rotation: {x: 0.4935698, y: 0.06916542, z: -0.02924403, w: 0.8664582}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_LeftToeBase
+      parentName: Bind_LeftFoot
+      position: {x: -0, y: 0.1508456, z: 1.7763568e-17}
+      rotation: {x: 0.29445228, y: 0.013582371, z: -0.0041853553, w: 0.9555605}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_RightUpLeg
+      parentName: Bind_Hips
+      position: {x: 0.07918761, y: -0.06767175, z: -0.020730607}
+      rotation: {x: 0.03784962, y: 0.056791928, z: 0.9976191, w: 0.009910868}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_RightLeg
+      parentName: Bind_RightUpLeg
+      position: {x: -0, y: 0.418039, z: 0}
+      rotation: {x: -0.13115737, y: 0.055743027, z: 0.0026702294, w: 0.98978955}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_RightFoot
+      parentName: Bind_RightLeg
+      position: {x: 8.881784e-18, y: 0.4601886, z: 1.7763568e-17}
+      rotation: {x: 0.55295336, y: -0.116021596, z: 0.052521866, w: 0.8234216}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bind_RightToeBase
+      parentName: Bind_RightFoot
+      position: {x: -0, y: 0.14751787, z: -8.881784e-18}
+      rotation: {x: 0.2670905, y: -0.06343602, z: 0.017622985, w: 0.96141976}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_GRP
+      parentName: idle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Blink_Left
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Blink_Left1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Blink_Right
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Blink_Right1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Body
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Bottoms
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_BrowsDown_Left
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_BrowsDown_Left1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_BrowsDown_Right
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_BrowsDown_Right1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_BrowsIn_Left
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_BrowsIn_Left1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_BrowsIn_Right
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_BrowsIn_Right1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_BrowsOuterLower_Left
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_BrowsOuterLower_Left1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_BrowsOuterLower_Right
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_BrowsOuterLower_Right1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_BrowsUp_Left
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_BrowsUp_Left1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_BrowsUp_Right
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_BrowsUp_Right1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_CheekPuff_Left
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_CheekPuff_Left1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_CheekPuff_Right
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_CheekPuff_Right1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_default1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Eyelashes
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_EyesWide_Left
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_EyesWide_Left1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_EyesWide_Right
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_EyesWide_Right1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Frown_Left
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Frown_Left1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Frown_Right
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Frown_Right1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Hair
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Jaw_Down
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Jaw_Down1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Jaw_Left
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Jaw_Left1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Jaw_Right
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Jaw_Right1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Jaw_Up
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Jaw_Up1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_JawBackward
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_JawBackward1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_JawForeward
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_JawForeward1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_JawRotateY_Left
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_JawRotateY_Left1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_JawRotateY_Right
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_JawRotateY_Right1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_JawRotateZ_Left
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_JawRotateZ_Left1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_JawRotateZ_Right
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_JawRotateZ_Right1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_LowerLipDown_Left
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_LowerLipDown_Left1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_LowerLipDown_Right
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_LowerLipDown_Right1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_LowerLipIn
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_LowerLipIn1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_LowerLipOut
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_LowerLipOut1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Midmouth_Left
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Midmouth_Left1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Midmouth_Right
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Midmouth_Right1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_MouthDown
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_MouthDown1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_MouthNarrow_Left
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_MouthNarrow_Left1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_MouthNarrow_Right
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_MouthNarrow_Right1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_MouthOpen
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_MouthOpen1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_MouthUp
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_MouthUp1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_MouthWhistle_NarrowAdjust_Left
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_MouthWhistle_NarrowAdjust_Left1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_MouthWhistle_NarrowAdjust_Right
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_MouthWhistle_NarrowAdjust_Right1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_NoseScrunch_Left
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_NoseScrunch_Left1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_NoseScrunch_Right
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_NoseScrunch_Right1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Shoes
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Smile_Left
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Smile_Left1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Smile_Right
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Smile_Right1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Squint_Left
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Squint_Left1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Squint_Right
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Squint_Right1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_TongueUp
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_TongueUp1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_Tops
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_UpperLipIn
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_UpperLipIn1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_UpperLipOut
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_UpperLipOut1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_UpperLipUp_Left
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_UpperLipUp_Left1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_UpperLipUp_Right
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_UpperLipUp_Right1
+      parentName: Mesh_GRP
+      position: {x: 0.0013396072, y: -0.001012451, z: -0.042140465}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
